@@ -1,0 +1,43 @@
+name: Odds Scan (12h)
+
+on:
+  schedule:
+    - cron: '5 */12 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Use Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      - name: Run scan logger
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          REGIONS: eu
+        run: node scan_log.js
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add scan_history.csv
+            git commit -m "chore: append scan history [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
