@@ -1,0 +1,16 @@
+{
+  "name": "tennis-odds-mvp",
+  "version": "1.0.0",
+  "main": "odds.js",
+  "type": "commonjs",
+  "scripts": {
+    "sports": "node odds.js sports",
+    "fetch:atpchina": "node odds.js fetch tennis_atp_china_open --csv",
+    "fetch:wtachina": "node odds.js fetch tennis_wta_china_open --csv",
+    "log": "node scan_log.js",
+    "clean": "rm -f odds_*.json odds_*.csv scan_history.csv scan_hourly.log"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

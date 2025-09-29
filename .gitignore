@@ -1,0 +1,6 @@
+.env
+node_modules
+odds*.json
+odds*.csv
+scan_history.csv
+scan_hourly.log
