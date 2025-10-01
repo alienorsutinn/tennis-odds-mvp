@@ -1,0 +1,37 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+4fdbc2efd5a15ba15b1976b1d0c1ebb6,2025-10-02T04:30:00Z,Botic van de Zandschulp,Nuno Borges,1.98,1.83,0.4803,0.5197,Marathon Bet,tennis_atp_shanghai_masters,eu
+6b59c85d2d5132b86005718d0fad22fb,2025-10-02T04:30:00Z,Camilo Ugo Carabelli,Terence Atmane,4.8,1.18,0.1973,0.8027,Marathon Bet,tennis_atp_shanghai_masters,eu
+a0a91f0b106ba1063b93bf7ec46e25da,2025-10-02T04:30:00Z,Dalibor Svrcina,Wu Yibing,2.28,1.63,0.4169,0.5831,Betsson,tennis_atp_shanghai_masters,eu
+e2934f5086babeeef6cc39ecf60b00f7,2025-10-02T04:30:00Z,Francisco Comesana,Ugo Blanchet,1.81,2.01,0.5262,0.4738,Betsson,tennis_atp_shanghai_masters,eu
+057d80d98016e7487bb94cc6e9707120,2025-10-02T04:30:00Z,James Trotter,Jenson Brooksby,3.65,1.29,0.2611,0.7389,Betsson,tennis_atp_shanghai_masters,eu
+6dac0150e75b775428d9311043c9b4f4,2025-10-02T05:40:00Z,Arthur Cazaux,Pedro Martinez,1.23,4.2,0.7735,0.2265,Betsson,tennis_atp_shanghai_masters,eu
+2e276ff46514a13f57168aafcb90113c,2025-10-02T05:40:00Z,Benjamin Bonzi,Reilly Opelka,1.98,1.83,0.4803,0.5197,Marathon Bet,tennis_atp_shanghai_masters,eu
+48a8677fe0868beec08acadee636c331,2025-10-02T05:40:00Z,Christopher O'Connell,Damir Dzumhur,1.68,2.19,0.5659,0.4341,Marathon Bet,tennis_atp_shanghai_masters,eu
+349d42605806a0ea99fa737e05e33712,2025-10-02T05:40:00Z,Ethan Quinn,Kamil Majchrzak,1.66,2.22,0.5722,0.4278,Marathon Bet,tennis_atp_shanghai_masters,eu
+d2ac9755ac1f05cf4b1f0d8b198d79ab,2025-10-02T05:40:00Z,Jesper De Jong,Yi Zhou,1.46,2.72,0.6507,0.3493,Marathon Bet,tennis_atp_shanghai_masters,eu
+652229ddd54e55d0cc1ab654db96b605,2025-10-02T06:50:00Z,Alejandro Tabilo,Marcos Giron,1.82,1.99,0.5223,0.4777,Betsson,tennis_atp_shanghai_masters,eu
+52056384bc5d486f70ad60fe6530ea02,2025-10-02T06:50:00Z,Mackenzie McDonald,Quentin Halys,1.57,2.42,0.6065,0.3935,Betsson,tennis_atp_shanghai_masters,eu
+f66d0f03dd546ff9db2b20b1dd1b22a0,2025-10-02T06:50:00Z,Mariano Navone,Valentin Royer,3.25,1.34,0.2919,0.7081,Betsson,tennis_atp_shanghai_masters,eu
+b67e7fdefb73b2052c60c8fd1b2e495e,2025-10-02T08:00:00Z,Arthur Rinderknech,Hamad Medjedovic,2.04,1.78,0.4660,0.5340,Marathon Bet,tennis_atp_shanghai_masters,eu
+cf0e348994d7ef696442853e54d68b1c,2025-10-02T08:00:00Z,Matteo Arnaldi,Rei Sakamoto,1.52,2.55,0.6265,0.3735,Betsson,tennis_atp_shanghai_masters,eu
+8da8e2691488e394bf977891c19fde18,2025-10-02T10:30:00Z,Aleksandar Kovacevic,Juncheng Shang,2.95,1.41,0.3234,0.6766,Betsson,tennis_atp_shanghai_masters,eu
+0eb9e8e96495d2c5e931d37287d66098,2025-10-02T11:40:00Z,Bu Yunchaokete,Juan Manuel Cerundolo,1.5,2.6,0.6341,0.3659,Betsson,tennis_atp_shanghai_masters,eu
+e96f539f2991aaf357a6c9e656d04d6b,2025-10-03T04:30:00Z,Adrian Mannarino,Francisco Cerundolo,2.06,1.76,0.4607,0.5393,Marathon Bet,tennis_atp_shanghai_masters,eu
+639fa785bc58b29fbc9f88a7ceb5974f,2025-10-03T04:30:00Z,Alexander Bublik,Valentin Vacherot,1.31,3.42,0.7230,0.2770,GTbets,tennis_atp_shanghai_masters,eu
+9bf752b9fe6cdd493341024c4707caa0,2025-10-03T04:30:00Z,Andrey Rublev,Yoshihito Nishioka,1.28,3.7,0.7430,0.2570,Betsson,tennis_atp_shanghai_masters,eu
+e456c553565b050bf1a7fc421dcbd442,2025-10-03T04:30:00Z,Ben Shelton,David Goffin,1.32,3.41,0.7209,0.2791,GTbets,tennis_atp_shanghai_masters,eu
+cb1b8f81eb8dc31d493156006ed9337f,2025-10-03T04:30:00Z,Casper Ruud,Zizou Bergs,1.36,3.25,0.7050,0.2950,GTbets,tennis_atp_shanghai_masters,eu
+cb86bec2fa183f066e4866593690790b,2025-10-03T04:30:00Z,Daniel Altmaier,Jannik Sinner,13.5,1.02,0.0702,0.9298,1xBet,tennis_atp_shanghai_masters,eu
+a98ab8ba062e4275c852a9c7681c79e0,2025-10-03T04:30:00Z,Fabian Marozsan,Taylor Fritz,4.8,1.19,0.1987,0.8013,Betsson,tennis_atp_shanghai_masters,eu
+0c1cb174174be18dc357b1b60617eee8,2025-10-03T04:30:00Z,Flavio Cobolli,Jaume Munar,1.81,2,0.5249,0.4751,1xBet,tennis_atp_shanghai_masters,eu
+f9ef1d201f718c2f6f9969af79fd8ce2,2025-10-03T04:30:00Z,Frances Tiafoe,Yannick Hanfmann,1.44,2.75,0.6563,0.3437,Unibet (NL),tennis_atp_shanghai_masters,eu
+056a7ad5ab01909458c14f1844b63503,2025-10-03T04:30:00Z,Giovanni Mpetshi Perricard,Luca Nardi,1.55,2.45,0.6125,0.3875,Marathon Bet,tennis_atp_shanghai_masters,eu
+7bcb2786938e4339b1b2bc0930af6adc,2025-10-03T04:30:00Z,Holger Rune,Sebastian Baez,1.21,4.6,0.7917,0.2083,GTbets,tennis_atp_shanghai_masters,eu
+a7f182c3d1d7e48d1272da23dce43897,2025-10-03T04:30:00Z,Jordan Thompson,Ugo Humbert,2.33,1.61,0.4086,0.5914,1xBet,tennis_atp_shanghai_masters,eu
+0c9fac8a4590291949534421e23eba8f,2025-10-03T04:30:00Z,Learner Tien,Miomir Kecmanovic,2,1.81,0.4751,0.5249,Marathon Bet,tennis_atp_shanghai_masters,eu
+ee4ec9974862bfccac31cd4d06a2b87c,2025-10-03T04:30:00Z,Marin Cilic,Novak Djokovic,7.49,1.08,0.1260,0.8740,GTbets,tennis_atp_shanghai_masters,eu
+12e5d924888af848c637a8850acb32c9,2025-10-03T04:30:00Z,Mattia Bellucci,Tomas Machac,2.68,1.47,0.3542,0.6458,Marathon Bet,tennis_atp_shanghai_masters,eu
+ed7b24d0d53458429286973ac80168ef,2025-10-02T07:00:00Z,Coco Gauff,Eva Lys,1.23,5.1,0.8057,0.1943,Matchbook,tennis_wta_china_open,eu
+c2f42cd537b9b5fa9a7e0dfab1c9cb15,2025-10-02T10:00:00Z,Amanda Anisimova,Jasmine Paolini,1.52,2.55,0.6265,0.3735,Coolbet,tennis_wta_china_open,eu
+230869cac48c7e81b0e1aa779b1a0d00,2025-10-03T00:00:00Z,Emma Navarro,Jessica Pegula,2.8,1.44,0.3396,0.6604,Nordic Bet,tennis_wta_china_open,eu
+d5c950d2f780a67f244739db56d58db5,2025-10-03T00:00:00Z,Linda Noskova,Sonay Kartal,1.53,2.52,0.6222,0.3778,1xBet,tennis_wta_china_open,eu
