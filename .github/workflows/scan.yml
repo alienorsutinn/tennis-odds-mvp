@@ -1,32 +1,40 @@
-name: Odds Scan (12h)
+name: Odds Fetch (12h)
 
 on:
   schedule:
-    - cron: '5 */12 * * *'
+    - cron: '5 */12 * * *'  # every 12 hours at :05
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 jobs:
-  scan:
+  fetch-odds:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Use Node 22
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: '20'
 
       - name: Install deps
-        run: npm ci || npm i
+        run: npm ci
 
-      - name: Run scan logger
+      - name: Fetch all active tennis odds → data/odds_latest.csv
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-          REGIONS: eu
+          REGION: eu        # change to uk/us/au if you prefer
+        run: node odds_all.js
+
+      - name: Append scan summary log (optional)
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          REGIONS: eu       # can be "eu,uk" etc., watch your quota
         run: node scan_log.js
 
       - name: Commit changes (if any)
@@ -34,10 +42,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add scan_history.csv
-            git commit -m "chore: append scan history [skip ci]"
+            git add data/*.csv data/*.json scan_history.csv
+            git commit -m "chore: update odds CSV and scan log [skip ci]"
             git push
           else
             echo "No changes to commit."
           fi
-
