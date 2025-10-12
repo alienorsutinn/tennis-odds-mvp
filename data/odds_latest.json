@@ -1,30 +1,17 @@
 {
-  "fetchedAt": "2025-10-12T00:35:39.898Z",
+  "fetchedAt": "2025-10-12T12:12:43.570Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
     {
-      "event_id": "3adc09d690a6c0576da21379ae3cc13b",
-      "start": "2025-10-12T08:30:00Z",
-      "player1": "Arthur Rinderknech",
-      "player2": "Valentin Vacherot",
-      "odds1": 1.68,
-      "odds2": 2.44,
-      "prob1": "0.5922",
-      "prob2": "0.4078",
-      "bookmaker": "Betfair",
-      "sport_key": "tennis_atp_shanghai_masters",
-      "region": "eu"
-    },
-    {
       "event_id": "5e550cc0340f0a415a02da4b80deee0d",
-      "start": "2025-10-12T10:30:00Z",
+      "start": "2025-10-12T10:38:00Z",
       "player1": "Coco Gauff",
       "player2": "Jessica Pegula",
-      "odds1": 1.6,
-      "odds2": 2.35,
-      "prob1": "0.5949",
-      "prob2": "0.4051",
+      "odds1": 1.25,
+      "odds2": 3.75,
+      "prob1": "0.7500",
+      "prob2": "0.2500",
       "bookmaker": "Nordic Bet",
       "sport_key": "tennis_wta_wuhan_open",
       "region": "eu"
