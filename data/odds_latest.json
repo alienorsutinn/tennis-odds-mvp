@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2025-10-12T12:12:43.570Z",
+  "fetchedAt": "2025-10-13T00:37:00.066Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "5e550cc0340f0a415a02da4b80deee0d",
-      "start": "2025-10-12T10:38:00Z",
-      "player1": "Coco Gauff",
-      "player2": "Jessica Pegula",
-      "odds1": 1.25,
-      "odds2": 3.75,
-      "prob1": "0.7500",
-      "prob2": "0.2500",
-      "bookmaker": "Nordic Bet",
-      "sport_key": "tennis_wta_wuhan_open",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
