@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-11-02T00:38:30.382Z",
+  "fetchedAt": "2025-11-02T12:12:29.961Z",
   "region": "eu",
   "count": 1,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2025-11-02T14:00:00Z",
       "player1": "Felix Auger-Aliassime",
       "player2": "Jannik Sinner",
-      "odds1": 8.29,
-      "odds2": 1.05,
-      "prob1": "0.1124",
-      "prob2": "0.8876",
+      "odds1": 7.97,
+      "odds2": 1.08,
+      "prob1": "0.1193",
+      "prob2": "0.8807",
       "bookmaker": "GTbets",
       "sport_key": "tennis_atp_paris_masters",
       "region": "eu"
