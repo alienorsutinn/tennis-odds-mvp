@@ -97,3 +97,5 @@ timestamp,key,title,region,count
 2026-01-19T00:42:47.929Z,"tennis_wta_aus_open_singles","WTA Australian Open",eu,51
 2026-01-19T12:17:22.320Z,"tennis_atp_aus_open_singles","ATP Australian Open",eu,42
 2026-01-19T12:17:22.320Z,"tennis_wta_aus_open_singles","WTA Australian Open",eu,41
+2026-01-20T00:38:23.949Z,"tennis_atp_aus_open_singles","ATP Australian Open",eu,-1
+2026-01-20T00:38:23.949Z,"tennis_wta_aus_open_singles","WTA Australian Open",eu,41
