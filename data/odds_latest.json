@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-01-31T00:43:38.313Z",
+  "fetchedAt": "2026-01-31T12:16:07.465Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "event_id": "8e9395e8ac7ab032c2f893866a8fde9f",
@@ -14,19 +14,6 @@
       "prob2": "0.2680",
       "bookmaker": "Unibet (SE)",
       "sport_key": "tennis_atp_aus_open_singles",
-      "region": "eu"
-    },
-    {
-      "event_id": "3e8b19a12883f5fe5cd1478ecb6ea850",
-      "start": "2026-01-31T08:30:00Z",
-      "player1": "Aryna Sabalenka",
-      "player2": "Elena Rybakina",
-      "odds1": 1.62,
-      "odds2": 2.4,
-      "prob1": "0.5970",
-      "prob2": "0.4030",
-      "bookmaker": "William Hill",
-      "sport_key": "tennis_wta_aus_open_singles",
       "region": "eu"
     }
   ]
