@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-02-01T00:55:16.598Z",
+  "fetchedAt": "2026-02-01T12:17:29.868Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "8e9395e8ac7ab032c2f893866a8fde9f",
-      "start": "2026-02-01T08:30:00Z",
-      "player1": "Carlos Alcaraz",
-      "player2": "Novak Djokovic",
-      "odds1": 1.32,
-      "odds2": 3.4,
-      "prob1": "0.7203",
-      "prob2": "0.2797",
-      "bookmaker": "Unibet (SE)",
-      "sport_key": "tennis_atp_aus_open_singles",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
