@@ -1,6 +1,124 @@
 {
-  "fetchedAt": "2026-02-06T00:45:04.368Z",
+  "fetchedAt": "2026-02-06T12:21:57.829Z",
   "region": "eu",
-  "count": 0,
-  "events": []
+  "count": 9,
+  "events": [
+    {
+      "event_id": "e9db5284f14ee35c6872952ffee613ff",
+      "start": "2026-02-06T10:00:00Z",
+      "player1": "Moyuka Uchijima",
+      "player2": "Rebecca Sramkova",
+      "odds1": 2,
+      "odds2": 1.85,
+      "prob1": "0.4805",
+      "prob2": "0.5195",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "56fce003a2345ecd5e6f3c1c50ee9091",
+      "start": "2026-02-06T10:20:00Z",
+      "player1": "Simona Waltert",
+      "player2": "Sonay Kartal",
+      "odds1": 1.65,
+      "odds2": 2.32,
+      "prob1": "0.5844",
+      "prob2": "0.4156",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "a974379b1a7699c520bc921bfe762453",
+      "start": "2026-02-06T12:00:00Z",
+      "player1": "Arina Rodionova",
+      "player2": "Tereza Valentova",
+      "odds1": 55.89,
+      "odds2": 1.02,
+      "prob1": "0.0179",
+      "prob2": "0.9821",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "28b801448e2d5ac1e0506f4d11d7fccc",
+      "start": "2026-02-06T12:00:00Z",
+      "player1": "Ekaterine Gorgodze",
+      "player2": "Elisabetta Cocciaretto",
+      "odds1": 4.19,
+      "odds2": 1.27,
+      "prob1": "0.2326",
+      "prob2": "0.7674",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "5816375eb48a84c52bb64829105f6ccf",
+      "start": "2026-02-06T13:00:00Z",
+      "player1": "Ella Seidel",
+      "player2": "Katarzyna Kawa",
+      "odds1": 1.21,
+      "odds2": 4.72,
+      "prob1": "0.7960",
+      "prob2": "0.2040",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "c6fd23a76ba4ebf783f967f51c7e06fb",
+      "start": "2026-02-06T14:00:00Z",
+      "player1": "Aleksandra Krunic",
+      "player2": "Storm Hunter",
+      "odds1": 4.86,
+      "odds2": 1.19,
+      "prob1": "0.1967",
+      "prob2": "0.8033",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "f020bd7c7f5a9650fc0bd5b26e6526bc",
+      "start": "2026-02-06T14:00:00Z",
+      "player1": "Alycia Parks",
+      "player2": "Rebeka Masarova",
+      "odds1": 2.14,
+      "odds2": 1.75,
+      "prob1": "0.4499",
+      "prob2": "0.5501",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "b3c267cf506d5fe09d0ec6a840203b50",
+      "start": "2026-02-06T14:00:00Z",
+      "player1": "Maria Camila Osorio Serrano",
+      "player2": "Priscilla Hon",
+      "odds1": 1.31,
+      "odds2": 3.62,
+      "prob1": "0.7343",
+      "prob2": "0.2657",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "c4ab9e34e917137bd264fb881445abe5",
+      "start": "2026-02-06T14:00:00Z",
+      "player1": "Shuai Zhang",
+      "player2": "Vera Zvonareva",
+      "odds1": 1.33,
+      "odds2": 3.5,
+      "prob1": "0.7246",
+      "prob2": "0.2754",
+      "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_qatar_open",
+      "region": "eu"
+    }
+  ]
 }
