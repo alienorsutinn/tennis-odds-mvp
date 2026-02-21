@@ -196,3 +196,5 @@ timestamp,key,title,region,count
 2026-02-21T00:45:13.199Z,"tennis_atp_dubai","ATP Dubai",eu,7
 2026-02-21T00:45:13.199Z,"tennis_atp_qatar_open","ATP Qatar Open",eu,1
 2026-02-21T00:45:13.199Z,"tennis_wta_dubai","WTA Dubai Championships",eu,1
+2026-02-21T12:16:52.521Z,"tennis_atp_qatar_open","ATP Qatar Open",eu,-1
+2026-02-21T12:16:52.521Z,"tennis_wta_dubai","WTA Dubai Championships",eu,1
