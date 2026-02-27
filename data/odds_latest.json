@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-27T00:48:05.589Z",
+  "fetchedAt": "2026-02-27T12:21:22.961Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-02-27T13:00:00Z",
       "player1": "Daniil Medvedev",
       "player2": "Felix Auger-Aliassime",
-      "odds1": 1.74,
-      "odds2": 2.05,
-      "prob1": "0.5409",
-      "prob2": "0.4591",
+      "odds1": 1.72,
+      "odds2": 2.08,
+      "prob1": "0.5474",
+      "prob2": "0.4526",
       "bookmaker": "Nordic Bet",
       "sport_key": "tennis_atp_dubai",
       "region": "eu"
@@ -21,10 +21,10 @@
       "start": "2026-02-27T15:00:00Z",
       "player1": "Andrey Rublev",
       "player2": "Tallon Griekspoor",
-      "odds1": 1.38,
-      "odds2": 3,
-      "prob1": "0.6849",
-      "prob2": "0.3151",
+      "odds1": 1.33,
+      "odds2": 3.27,
+      "prob1": "0.7109",
+      "prob2": "0.2891",
       "bookmaker": "Betclic (FR)",
       "sport_key": "tennis_atp_dubai",
       "region": "eu"
