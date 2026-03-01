@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-02-28T12:16:28.540Z",
+  "fetchedAt": "2026-03-01T00:54:07.050Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "693aaf58d4b2a5847da6c875e44b3ed5",
-      "start": "2026-02-28T15:00:00Z",
-      "player1": "Daniil Medvedev",
-      "player2": "Tallon Griekspoor",
-      "odds1": 1.2,
-      "odds2": 4.58,
-      "prob1": "0.7924",
-      "prob2": "0.2076",
-      "bookmaker": "1xBet",
-      "sport_key": "tennis_atp_dubai",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
