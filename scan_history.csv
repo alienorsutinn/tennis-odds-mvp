@@ -214,3 +214,5 @@ timestamp,key,title,region,count
 2026-02-28T12:16:29.237Z,"tennis_atp_dubai","ATP Dubai",eu,1
 2026-03-01T12:17:16.453Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,16
 2026-03-02T00:47:33.157Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,11
+2026-03-02T12:22:42.462Z,"tennis_atp_indian_wells","ATP Indian Wells",eu,20
+2026-03-02T12:22:42.462Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,13
