@@ -256,3 +256,5 @@ timestamp,key,title,region,count
 2026-03-12T00:41:47.168Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,4
 2026-03-12T12:22:37.444Z,"tennis_atp_indian_wells","ATP Indian Wells",eu,4
 2026-03-12T12:22:37.444Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,4
+2026-03-13T00:47:03.749Z,"tennis_atp_indian_wells","ATP Indian Wells",eu,3
+2026-03-13T00:47:03.749Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,-1
