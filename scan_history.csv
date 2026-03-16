@@ -270,3 +270,5 @@ timestamp,key,title,region,count
 2026-03-15T12:19:26.414Z,"tennis_wta_indian_wells","WTA Indian Wells",eu,1
 2026-03-15T12:19:26.414Z,"tennis_wta_miami_open","WTA Miami Open",eu,21
 2026-03-16T00:54:03.550Z,"tennis_wta_miami_open","WTA Miami Open",eu,21
+2026-03-16T12:29:56.988Z,"tennis_atp_miami_open","ATP Miami Open",eu,20
+2026-03-16T12:29:56.988Z,"tennis_wta_miami_open","WTA Miami Open",eu,41
