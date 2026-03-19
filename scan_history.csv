@@ -282,3 +282,5 @@ timestamp,key,title,region,count
 2026-03-18T12:29:50.739Z,"tennis_wta_miami_open","WTA Miami Open",eu,32
 2026-03-19T00:49:53.031Z,"tennis_atp_miami_open","ATP Miami Open",eu,-1
 2026-03-19T00:49:53.031Z,"tennis_wta_miami_open","WTA Miami Open",eu,32
+2026-03-19T12:24:11.141Z,"tennis_atp_miami_open","ATP Miami Open",eu,32
+2026-03-19T12:24:11.141Z,"tennis_wta_miami_open","WTA Miami Open",eu,32
