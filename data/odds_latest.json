@@ -1,32 +1,19 @@
 {
-  "fetchedAt": "2026-03-28T12:21:04.325Z",
+  "fetchedAt": "2026-03-29T00:56:04.139Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "event_id": "23816b92085c3bb99a75425a7e466d36",
-      "start": "2026-03-29T17:30:00Z",
+      "start": "2026-03-29T19:00:00Z",
       "player1": "Jannik Sinner",
       "player2": "Jiri Lehecka",
-      "odds1": 1.05,
-      "odds2": 12,
-      "prob1": "0.9195",
-      "prob2": "0.0805",
+      "odds1": 1.06,
+      "odds2": 11.3,
+      "prob1": "0.9142",
+      "prob2": "0.0858",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_miami_open",
-      "region": "eu"
-    },
-    {
-      "event_id": "bb544a70410c988a523577e062c0eb4a",
-      "start": "2026-03-28T19:00:00Z",
-      "player1": "Aryna Sabalenka",
-      "player2": "Coco Gauff",
-      "odds1": 1.37,
-      "odds2": 3.31,
-      "prob1": "0.7073",
-      "prob2": "0.2927",
-      "bookmaker": "1xBet",
-      "sport_key": "tennis_wta_miami_open",
       "region": "eu"
     }
   ]
