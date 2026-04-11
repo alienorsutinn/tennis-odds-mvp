@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-11T00:51:52.995Z",
+  "fetchedAt": "2026-04-11T12:21:54.099Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -8,11 +8,11 @@
       "start": "2026-04-11T11:30:00Z",
       "player1": "Alexander Zverev",
       "player2": "Jannik Sinner",
-      "odds1": 5.19,
-      "odds2": 1.19,
-      "prob1": "0.1865",
-      "prob2": "0.8135",
-      "bookmaker": "1xBet",
+      "odds1": 30,
+      "odds2": 1.03,
+      "prob1": "0.0332",
+      "prob2": "0.9668",
+      "bookmaker": "Betfair",
       "sport_key": "tennis_atp_monte_carlo_masters",
       "region": "eu"
     },
@@ -21,10 +21,10 @@
       "start": "2026-04-11T13:30:00Z",
       "player1": "Carlos Alcaraz",
       "player2": "Valentin Vacherot",
-      "odds1": 1.06,
-      "odds2": 11.2,
-      "prob1": "0.9135",
-      "prob2": "0.0865",
+      "odds1": 1.09,
+      "odds2": 8.9,
+      "prob1": "0.8909",
+      "prob2": "0.1091",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_monte_carlo_masters",
       "region": "eu"
