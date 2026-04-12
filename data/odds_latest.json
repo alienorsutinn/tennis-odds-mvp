@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-12T00:58:42.588Z",
+  "fetchedAt": "2026-04-12T12:22:53.501Z",
   "region": "eu",
   "count": 1,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-04-12T13:00:00Z",
       "player1": "Carlos Alcaraz",
       "player2": "Jannik Sinner",
-      "odds1": 1.89,
-      "odds2": 1.92,
-      "prob1": "0.5039",
-      "prob2": "0.4961",
+      "odds1": 1.91,
+      "odds2": 1.9,
+      "prob1": "0.4987",
+      "prob2": "0.5013",
       "bookmaker": "Betsson",
       "sport_key": "tennis_atp_monte_carlo_masters",
       "region": "eu"
