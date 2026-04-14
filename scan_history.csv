@@ -353,3 +353,6 @@ timestamp,key,title,region,count
 2026-04-11T12:21:54.580Z,"tennis_atp_monte_carlo_masters","ATP Monte-Carlo Masters",eu,2
 2026-04-12T00:58:43.152Z,"tennis_atp_monte_carlo_masters","ATP Monte-Carlo Masters",eu,1
 2026-04-12T12:22:54.084Z,"tennis_atp_monte_carlo_masters","ATP Monte-Carlo Masters",eu,1
+2026-04-14T00:58:50.574Z,"tennis_atp_barcelona_open","ATP Barcelona Open",eu,11
+2026-04-14T00:58:50.574Z,"tennis_atp_munich","ATP Munich",eu,12
+2026-04-14T00:58:50.574Z,"tennis_wta_stuttgart_open","WTA Stuttgart Open",eu,12
