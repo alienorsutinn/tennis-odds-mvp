@@ -371,3 +371,6 @@ timestamp,key,title,region,count
 2026-04-16T12:36:33.618Z,"tennis_atp_barcelona_open","ATP Barcelona Open",eu,5
 2026-04-16T12:36:33.618Z,"tennis_atp_munich","ATP Munich",eu,4
 2026-04-16T12:36:33.618Z,"tennis_wta_stuttgart_open","WTA Stuttgart Open",eu,6
+2026-04-17T00:58:19.985Z,"tennis_atp_barcelona_open","ATP Barcelona Open",eu,4
+2026-04-17T00:58:19.985Z,"tennis_atp_munich","ATP Munich",eu,4
+2026-04-17T00:58:19.985Z,"tennis_wta_stuttgart_open","WTA Stuttgart Open",eu,4
