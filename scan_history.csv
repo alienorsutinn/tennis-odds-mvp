@@ -391,3 +391,5 @@ timestamp,key,title,region,count
 2026-04-19T12:23:12.460Z,"tennis_wta_stuttgart_open","WTA Stuttgart Open",eu,1
 2026-04-20T00:59:43.673Z,"tennis_atp_madrid_open","ATP Madrid Open",eu,23
 2026-04-20T00:59:43.673Z,"tennis_wta_madrid_open","WTA Madrid Open",eu,22
+2026-04-20T12:39:04.194Z,"tennis_atp_madrid_open","ATP Madrid Open",eu,35
+2026-04-20T12:39:04.194Z,"tennis_wta_madrid_open","WTA Madrid Open",eu,22
