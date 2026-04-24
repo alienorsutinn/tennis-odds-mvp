@@ -407,3 +407,5 @@ timestamp,key,title,region,count
 2026-04-23T12:34:31.493Z,"tennis_wta_madrid_open","WTA Madrid Open",eu,28
 2026-04-24T01:01:17.201Z,"tennis_atp_madrid_open","ATP Madrid Open",eu,32
 2026-04-24T01:01:17.201Z,"tennis_wta_madrid_open","WTA Madrid Open",eu,24
+2026-04-24T12:34:35.008Z,"tennis_atp_madrid_open","ATP Madrid Open",eu,28
+2026-04-24T12:34:35.008Z,"tennis_wta_madrid_open","WTA Madrid Open",eu,18
