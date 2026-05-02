@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-02T01:01:46.546Z",
+  "fetchedAt": "2026-05-02T12:29:35.944Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-05-03T15:00:00Z",
       "player1": "Alexander Zverev",
       "player2": "Jannik Sinner",
-      "odds1": 5.04,
-      "odds2": 1.2,
-      "prob1": "0.1923",
-      "prob2": "0.8077",
+      "odds1": 5.24,
+      "odds2": 1.19,
+      "prob1": "0.1851",
+      "prob2": "0.8149",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_madrid_open",
       "region": "eu"
@@ -21,10 +21,10 @@
       "start": "2026-05-02T15:00:00Z",
       "player1": "Marta Kostyuk",
       "player2": "Mirra Andreeva",
-      "odds1": 2.38,
-      "odds2": 1.72,
-      "prob1": "0.4195",
-      "prob2": "0.5805",
+      "odds1": 2.3,
+      "odds2": 1.75,
+      "prob1": "0.4321",
+      "prob2": "0.5679",
       "bookmaker": "Matchbook",
       "sport_key": "tennis_wta_madrid_open",
       "region": "eu"
