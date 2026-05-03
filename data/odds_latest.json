@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-03T01:08:31.453Z",
+  "fetchedAt": "2026-05-03T12:29:29.506Z",
   "region": "eu",
   "count": 1,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-05-03T15:00:00Z",
       "player1": "Alexander Zverev",
       "player2": "Jannik Sinner",
-      "odds1": 5.19,
-      "odds2": 1.19,
-      "prob1": "0.1865",
-      "prob2": "0.8135",
+      "odds1": 5.04,
+      "odds2": 1.2,
+      "prob1": "0.1923",
+      "prob2": "0.8077",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_madrid_open",
       "region": "eu"
