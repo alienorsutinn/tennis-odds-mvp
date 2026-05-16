@@ -1,30 +1,17 @@
 {
-  "fetchedAt": "2026-05-16T01:03:32.856Z",
+  "fetchedAt": "2026-05-16T12:33:12.792Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
-    {
-      "event_id": "42aa12cc66462c4ddea97dd3d363c223",
-      "start": "2026-05-15T17:23:00Z",
-      "player1": "Daniil Medvedev",
-      "player2": "Jannik Sinner",
-      "odds1": 11,
-      "odds2": 1.08,
-      "prob1": "0.0894",
-      "prob2": "0.9106",
-      "bookmaker": "Matchbook",
-      "sport_key": "tennis_atp_italian_open",
-      "region": "eu"
-    },
     {
       "event_id": "74150f08702e4315b0b04969c30c6e67",
       "start": "2026-05-16T15:00:00Z",
       "player1": "Coco Gauff",
       "player2": "Elina Svitolina",
       "odds1": 1.69,
-      "odds2": 2.31,
-      "prob1": "0.5775",
-      "prob2": "0.4225",
+      "odds2": 2.3,
+      "prob1": "0.5764",
+      "prob2": "0.4236",
       "bookmaker": "Pinnacle",
       "sport_key": "tennis_wta_italian_open",
       "region": "eu"
