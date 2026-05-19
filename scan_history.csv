@@ -507,3 +507,7 @@ timestamp,key,title,region,count
 2026-05-18T13:31:39.585Z,"tennis_atp_hamburg_open","ATP Hamburg Open",eu,11
 2026-05-18T13:31:39.585Z,"tennis_wta_french_open","WTA French Open",eu,40
 2026-05-18T13:31:39.585Z,"tennis_wta_strasbourg","WTA Internationaux de Strasbourg",eu,10
+2026-05-19T01:12:54.684Z,"tennis_atp_french_open","ATP French Open",eu,25
+2026-05-19T01:12:54.684Z,"tennis_atp_hamburg_open","ATP Hamburg Open",eu,11
+2026-05-19T01:12:54.684Z,"tennis_wta_french_open","WTA French Open",eu,25
+2026-05-19T01:12:54.684Z,"tennis_wta_strasbourg","WTA Internationaux de Strasbourg",eu,9
