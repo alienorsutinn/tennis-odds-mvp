@@ -1,32 +1,19 @@
 {
-  "fetchedAt": "2026-06-06T12:40:48.061Z",
+  "fetchedAt": "2026-06-07T01:20:35.446Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "event_id": "4b95e6de32c69dc11ab8bbdaf7929253",
       "start": "2026-06-07T13:00:00Z",
       "player1": "Alexander Zverev",
       "player2": "Flavio Cobolli",
-      "odds1": 1.25,
-      "odds2": 4.46,
-      "prob1": "0.7811",
-      "prob2": "0.2189",
+      "odds1": 1.26,
+      "odds2": 4.3,
+      "prob1": "0.7734",
+      "prob2": "0.2266",
       "bookmaker": "Pinnacle",
       "sport_key": "tennis_atp_french_open",
-      "region": "eu"
-    },
-    {
-      "event_id": "69fde123c71acd8bcf4d957dba6f97b3",
-      "start": "2026-06-06T13:00:00Z",
-      "player1": "Maja Chwalinska",
-      "player2": "Mirra Andreeva",
-      "odds1": 4.6,
-      "odds2": 1.22,
-      "prob1": "0.2096",
-      "prob2": "0.7904",
-      "bookmaker": "LeoVegas (SE)",
-      "sport_key": "tennis_wta_french_open",
       "region": "eu"
     }
   ]
