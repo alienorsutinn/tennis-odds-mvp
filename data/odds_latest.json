@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-06-07T01:20:35.446Z",
+  "fetchedAt": "2026-06-07T12:45:14.516Z",
   "region": "eu",
   "count": 1,
   "events": [
     {
       "event_id": "4b95e6de32c69dc11ab8bbdaf7929253",
-      "start": "2026-06-07T13:00:00Z",
+      "start": "2026-06-07T13:10:00Z",
       "player1": "Alexander Zverev",
       "player2": "Flavio Cobolli",
-      "odds1": 1.26,
-      "odds2": 4.3,
-      "prob1": "0.7734",
-      "prob2": "0.2266",
+      "odds1": 1.2,
+      "odds2": 5.27,
+      "prob1": "0.8145",
+      "prob2": "0.1855",
       "bookmaker": "Pinnacle",
       "sport_key": "tennis_atp_french_open",
       "region": "eu"
