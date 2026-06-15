@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-06-14T12:53:08.035Z",
+  "fetchedAt": "2026-06-15T01:25:48.169Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "5ae466fb9d899470c2d74c5deccc6526",
-      "start": "2026-06-14T12:30:00Z",
-      "player1": "Donna Vekic",
-      "player2": "Emma Raducanu",
-      "odds1": 2.03,
-      "odds2": 1.82,
-      "prob1": "0.4727",
-      "prob2": "0.5273",
-      "bookmaker": "Pinnacle",
-      "sport_key": "tennis_wta_queens_club_champ",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
