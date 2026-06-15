@@ -618,3 +618,6 @@ timestamp,key,title,region,count
 2026-06-13T12:49:35.982Z,"tennis_wta_queens_club_champ","WTA Queen's Club Championships",eu,2
 2026-06-14T01:23:35.843Z,"tennis_wta_queens_club_champ","WTA Queen's Club Championships",eu,1
 2026-06-14T12:53:08.631Z,"tennis_wta_queens_club_champ","WTA Queen's Club Championships",eu,1
+2026-06-15T14:22:13.789Z,"tennis_atp_halle_open","ATP Halle Open",eu,13
+2026-06-15T14:22:13.789Z,"tennis_atp_queens_club_champ","ATP Queen's Club Championships",eu,15
+2026-06-15T14:22:13.789Z,"tennis_wta_german_open","WTA German Open",eu,8
