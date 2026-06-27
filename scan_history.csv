@@ -683,3 +683,5 @@ timestamp,key,title,region,count
 2026-06-26T12:56:38.639Z,"tennis_wta_bad_homburg_open","WTA Bad Homburg Open",eu,1
 2026-06-27T01:11:43.355Z,"tennis_wta_bad_homburg_open","WTA Bad Homburg Open",eu,1
 2026-06-27T01:11:43.355Z,"tennis_wta_wimbledon","WTA Wimbledon",eu,59
+2026-06-27T12:40:20.465Z,"tennis_atp_wimbledon","ATP Wimbledon",eu,64
+2026-06-27T12:40:20.465Z,"tennis_wta_wimbledon","WTA Wimbledon",eu,60
