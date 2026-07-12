@@ -1,32 +1,19 @@
 {
-  "fetchedAt": "2026-07-11T13:20:24.149Z",
+  "fetchedAt": "2026-07-12T02:50:28.378Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "event_id": "12e1ea184efd26935b074deb9ebd33b3",
-      "start": "2026-07-12T09:00:00Z",
+      "start": "2026-07-12T14:00:00Z",
       "player1": "Alexander Zverev",
       "player2": "Jannik Sinner",
-      "odds1": 4.9,
-      "odds2": 1.2,
-      "prob1": "0.1967",
-      "prob2": "0.8033",
+      "odds1": 4.8,
+      "odds2": 1.21,
+      "prob1": "0.2013",
+      "prob2": "0.7987",
       "bookmaker": "Winamax (DE)",
       "sport_key": "tennis_atp_wimbledon",
-      "region": "eu"
-    },
-    {
-      "event_id": "365676735c02ee96cba5ddf28a76573c",
-      "start": "2026-07-11T15:00:00Z",
-      "player1": "Karolina Muchova",
-      "player2": "Linda Noskova",
-      "odds1": 1.73,
-      "odds2": 2.34,
-      "prob1": "0.5749",
-      "prob2": "0.4251",
-      "bookmaker": "Betfair",
-      "sport_key": "tennis_wta_wimbledon",
       "region": "eu"
     }
   ]
