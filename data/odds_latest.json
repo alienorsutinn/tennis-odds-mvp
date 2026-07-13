@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-07-12T13:20:56.396Z",
+  "fetchedAt": "2026-07-13T02:51:40.858Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "12e1ea184efd26935b074deb9ebd33b3",
-      "start": "2026-07-12T15:00:00Z",
-      "player1": "Alexander Zverev",
-      "player2": "Jannik Sinner",
-      "odds1": 5,
-      "odds2": 1.2,
-      "prob1": "0.1935",
-      "prob2": "0.8065",
-      "bookmaker": "Winamax (DE)",
-      "sport_key": "tennis_atp_wimbledon",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
