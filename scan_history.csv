@@ -743,3 +743,5 @@ timestamp,key,title,region,count
 2026-07-11T13:20:24.897Z,"tennis_wta_wimbledon","WTA Wimbledon",eu,1
 2026-07-12T02:50:28.945Z,"tennis_atp_wimbledon","ATP Wimbledon",eu,1
 2026-07-12T13:20:57.031Z,"tennis_atp_wimbledon","ATP Wimbledon",eu,1
+2026-07-27T03:15:03.998Z,"tennis_atp_washington_open","ATP Washington Open",eu,12
+2026-07-27T03:15:03.998Z,"tennis_wta_washington_open","WTA Washington Open",eu,8
