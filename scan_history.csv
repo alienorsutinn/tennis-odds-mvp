@@ -764,3 +764,6 @@ timestamp,key,title,region,count
 2026-07-31T14:07:33.634Z,"tennis_atp_washington_open","ATP Washington Open",eu,4
 2026-07-31T14:07:33.634Z,"tennis_wta_washington_open","WTA Washington Open",eu,4
 2026-08-01T02:50:39.823Z,"tennis_atp_washington_open","ATP Washington Open",eu,2
+2026-08-01T13:21:47.578Z,"tennis_atp_canadian_open","ATP Canadian Open",eu,13
+2026-08-01T13:21:47.578Z,"tennis_atp_washington_open","ATP Washington Open",eu,2
+2026-08-01T13:21:47.578Z,"tennis_wta_washington_open","WTA Washington Open",eu,2
