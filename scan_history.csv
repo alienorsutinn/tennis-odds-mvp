@@ -828,3 +828,7 @@ timestamp,key,title,region,count
 2026-08-13T02:00:56.686Z,"tennis_atp_cincinnati_open","ATP Cincinnati Open",eu,26
 2026-08-13T02:00:56.686Z,"tennis_wta_canadian_open","WTA Canadian Open",eu,2
 2026-08-13T02:00:56.686Z,"tennis_wta_cincinnati_open","WTA Cincinnati Open",eu,27
+2026-08-13T13:11:23.690Z,"tennis_atp_canadian_open","ATP Canadian Open",eu,1
+2026-08-13T13:11:23.690Z,"tennis_atp_cincinnati_open","ATP Cincinnati Open",eu,21
+2026-08-13T13:11:23.690Z,"tennis_wta_canadian_open","WTA Canadian Open",eu,1
+2026-08-13T13:11:23.690Z,"tennis_wta_cincinnati_open","WTA Cincinnati Open",eu,24
