@@ -882,3 +882,6 @@ timestamp,key,title,region,count
 2026-08-27T07:55:55.465Z,"tennis_wta_monterrey_open","WTA Monterrey Open",eu,4
 2026-08-27T21:53:04.459Z,"tennis_wta_monterrey_open","WTA Monterrey Open",eu,4
 2026-08-27T21:53:04.459Z,"tennis_wta_us_open","WTA US Open",eu,47
+2026-08-28T09:59:49.500Z,"tennis_atp_us_open","ATP US Open",eu,47
+2026-08-28T09:59:49.500Z,"tennis_wta_monterrey_open","WTA Monterrey Open",eu,2
+2026-08-28T09:59:49.500Z,"tennis_wta_us_open","WTA US Open",eu,47
