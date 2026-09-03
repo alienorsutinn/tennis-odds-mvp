@@ -910,3 +910,5 @@ timestamp,key,title,region,count
 2026-09-02T03:16:59.990Z,"tennis_wta_us_open","WTA US Open",eu,31
 2026-09-02T16:05:47.688Z,"tennis_atp_us_open","ATP US Open",eu,33
 2026-09-02T16:05:47.688Z,"tennis_wta_us_open","WTA US Open",eu,31
+2026-09-03T03:19:03.305Z,"tennis_atp_us_open","ATP US Open",eu,21
+2026-09-03T03:19:03.305Z,"tennis_wta_us_open","WTA US Open",eu,23
