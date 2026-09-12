@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T03:30:18.340Z",
+  "fetchedAt": "2026-09-12T15:08:08.463Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-09-13T18:00:00Z",
       "player1": "Alexander Zverev",
       "player2": "Ben Shelton",
-      "odds1": 1.72,
-      "odds2": 2.3,
-      "prob1": "0.5721",
-      "prob2": "0.4279",
+      "odds1": 1.75,
+      "odds2": 2.25,
+      "prob1": "0.5625",
+      "prob2": "0.4375",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_us_open",
       "region": "eu"
@@ -21,10 +21,10 @@
       "start": "2026-09-12T20:00:00Z",
       "player1": "Aryna Sabalenka",
       "player2": "Elena Rybakina",
-      "odds1": 1.75,
-      "odds2": 2.18,
-      "prob1": "0.5547",
-      "prob2": "0.4453",
+      "odds1": 1.71,
+      "odds2": 2.25,
+      "prob1": "0.5682",
+      "prob2": "0.4318",
       "bookmaker": "Coolbet",
       "sport_key": "tennis_wta_us_open",
       "region": "eu"
