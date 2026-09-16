@@ -1,21 +1,8 @@
 {
-  "fetchedAt": "2026-09-16T03:42:58.100Z",
+  "fetchedAt": "2026-09-16T16:17:29.610Z",
   "region": "eu",
-  "count": 5,
+  "count": 6,
   "events": [
-    {
-      "event_id": "c3afffa7512abaf7cc1a286bbc7ac4d8",
-      "start": "2026-09-16T01:11:57Z",
-      "player1": "Janice Tjen",
-      "player2": "Sloane Stephens",
-      "odds1": 4.1,
-      "odds2": 1.32,
-      "prob1": "0.2435",
-      "prob2": "0.7565",
-      "bookmaker": "Betfair",
-      "sport_key": "tennis_wta_guadalajara_open",
-      "region": "eu"
-    },
     {
       "event_id": "c47460aa74f991d6e40bc2374ff6945f",
       "start": "2026-09-16T19:00:00Z",
@@ -34,10 +21,10 @@
       "start": "2026-09-16T20:30:00Z",
       "player1": "Iva Jović",
       "player2": "Zeynep Sonmez",
-      "odds1": 1.25,
-      "odds2": 3.9,
-      "prob1": "0.7573",
-      "prob2": "0.2427",
+      "odds1": 1.26,
+      "odds2": 3.8,
+      "prob1": "0.7510",
+      "prob2": "0.2490",
       "bookmaker": "Winamax (FR)",
       "sport_key": "tennis_wta_guadalajara_open",
       "region": "eu"
@@ -65,6 +52,32 @@
       "prob1": "0.3126",
       "prob2": "0.6874",
       "bookmaker": "Winamax (DE)",
+      "sport_key": "tennis_wta_guadalajara_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "e9f2dc156ba348fcd57bfc5de2dde91b",
+      "start": "2026-09-17T19:00:00Z",
+      "player1": "Cristina Bucsa",
+      "player2": "Sara Bejlek",
+      "odds1": 2.4,
+      "odds2": 1.48,
+      "prob1": "0.3814",
+      "prob2": "0.6186",
+      "bookmaker": "Unibet (FR)",
+      "sport_key": "tennis_wta_guadalajara_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "d9227f791230695a4adf669298304799",
+      "start": "2026-09-17T19:00:00Z",
+      "player1": "Peyton Stearns",
+      "player2": "Sloane Stephens",
+      "odds1": 1.53,
+      "odds2": 2.48,
+      "prob1": "0.6185",
+      "prob2": "0.3815",
+      "bookmaker": "Marathon Bet",
       "sport_key": "tennis_wta_guadalajara_open",
       "region": "eu"
     }
