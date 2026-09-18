@@ -1,31 +1,31 @@
 {
-  "fetchedAt": "2026-09-18T03:34:52.504Z",
+  "fetchedAt": "2026-09-18T15:57:57.287Z",
   "region": "eu",
   "count": 2,
   "events": [
-    {
-      "event_id": "d9227f791230695a4adf669298304799",
-      "start": "2026-09-18T02:40:00Z",
-      "player1": "Peyton Stearns",
-      "player2": "Sloane Stephens",
-      "odds1": 1.75,
-      "odds2": 2.26,
-      "prob1": "0.5636",
-      "prob2": "0.4364",
-      "bookmaker": "Betfair",
-      "sport_key": "tennis_wta_guadalajara_open",
-      "region": "eu"
-    },
     {
       "event_id": "6f00202f7f5cae54635525119d54c145",
       "start": "2026-09-18T23:00:00Z",
       "player1": "Cristina Bucsa",
       "player2": "Iva Jović",
-      "odds1": 4.05,
-      "odds2": 1.28,
-      "prob1": "0.2402",
-      "prob2": "0.7598",
+      "odds1": 4.13,
+      "odds2": 1.27,
+      "prob1": "0.2352",
+      "prob2": "0.7648",
       "bookmaker": "Pinnacle",
+      "sport_key": "tennis_wta_guadalajara_open",
+      "region": "eu"
+    },
+    {
+      "event_id": "2db727e751af296d00f68e578aa58e02",
+      "start": "2026-09-19T00:30:00Z",
+      "player1": "Liudmila Samsonova",
+      "player2": "Peyton Stearns",
+      "odds1": 1.71,
+      "odds2": 2.38,
+      "prob1": "0.5819",
+      "prob2": "0.4181",
+      "bookmaker": "Betfair",
       "sport_key": "tennis_wta_guadalajara_open",
       "region": "eu"
     }
