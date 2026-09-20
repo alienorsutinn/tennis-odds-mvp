@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T15:29:52.313Z",
+  "fetchedAt": "2026-09-20T03:47:54.505Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "141e2b900ff27f0a57351e5a9ccfd860",
-      "start": "2026-09-19T23:00:00Z",
-      "player1": "Iva Jović",
-      "player2": "Peyton Stearns",
-      "odds1": 1.34,
-      "odds2": 3.85,
-      "prob1": "0.7418",
-      "prob2": "0.2582",
-      "bookmaker": "Betfair",
-      "sport_key": "tennis_wta_guadalajara_open",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
