@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T16:43:46.219Z",
+  "fetchedAt": "2026-09-26T03:54:57.140Z",
   "region": "eu",
   "count": 1,
   "events": [
@@ -9,9 +9,9 @@
       "player1": "Leylah Fernandez",
       "player2": "Maja Chwalinska",
       "odds1": 1.56,
-      "odds2": 2.15,
-      "prob1": "0.5795",
-      "prob2": "0.4205",
+      "odds2": 2.2,
+      "prob1": "0.5851",
+      "prob2": "0.4149",
       "bookmaker": "Unibet (FR)",
       "sport_key": "tennis_wta_singapore_open",
       "region": "eu"
