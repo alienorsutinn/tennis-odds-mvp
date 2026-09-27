@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-09-27T04:05:06.495Z",
+  "fetchedAt": "2026-09-27T16:32:27.532Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "4cf827b985faae04b7886aebea6cf96e",
-      "start": "2026-09-27T09:00:00Z",
-      "player1": "Leylah Fernandez",
-      "player2": "Talia Gibson",
-      "odds1": 1.46,
-      "odds2": 2.65,
-      "prob1": "0.6448",
-      "prob2": "0.3552",
-      "bookmaker": "Betclic (FR)",
-      "sport_key": "tennis_wta_singapore_open",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
