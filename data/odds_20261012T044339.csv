@@ -1,0 +1,38 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+0d2da7aba492b5313b97e79d051d44b8,2026-10-12T04:07:59Z,Casper Ruud,Learner Tien,2.24,1.79,0.4442,0.5558,Betfair,tennis_atp_shanghai_masters,eu
+28e1e0d7171fb5be199378dd653cbbc2,2026-10-12T04:10:10Z,Felix Auger-Aliassime,Pablo Carreno Busta,1.37,3.55,0.7215,0.2785,Betfair,tennis_atp_shanghai_masters,eu
+81fb9432657c7d0ee07960efc59890f2,2026-10-12T05:10:00Z,Jiri Lehecka,Rafael Jodar,1.58,2.2,0.5820,0.4180,Unibet (FR),tennis_atp_shanghai_masters,eu
+6573741d499f14fef47c0d04920aa8d1,2026-10-12T05:10:00Z,Stefanos Tsitsipas,Taylor Fritz,2.46,1.66,0.4029,0.5971,Betfair,tennis_atp_shanghai_masters,eu
+8483a75a7f587d46746552be094d5212,2026-10-12T06:20:00Z,Dalibor Svrcina,Daniil Medvedev,6.4,1.12,0.1489,0.8511,Nordic Bet,tennis_atp_shanghai_masters,eu
+f11e01ff73395ec9eaee7743f8e46586,2026-10-12T07:30:00Z,Arthur Fils,Botic van de Zandschulp,1.22,4.2,0.7749,0.2251,William Hill,tennis_atp_shanghai_masters,eu
+d84e5aa0d73e83aa621d6572011053e2,2026-10-12T10:00:00Z,Carlos Alcaraz,Zizou Bergs,1.07,10,0.9033,0.0967,Winamax (DE),tennis_atp_shanghai_masters,eu
+72263289b6cc7dabed8977b5bec91008,2026-10-12T11:10:00Z,Tommy Paul,Valentin Vacherot,1.62,2.3,0.5867,0.4133,William Hill,tennis_atp_shanghai_masters,eu
+9115ec9d559da806d8a0829db60d9a51,2026-10-13T04:00:00Z,Alejandro Davidovich Fokina,Hubert Hurkacz,1.84,1.73,0.4846,0.5154,Unibet (FR),tennis_atp_shanghai_masters,eu
+caf387c8fabf2e7526a93321c6ebfb2d,2026-10-13T04:00:00Z,Alex de Minaur,Karen Khachanov,1.67,2.2,0.5685,0.4315,William Hill,tennis_atp_shanghai_masters,eu
+ac951eec8a949a45f8e37eb5cd117ac1,2026-10-13T04:00:00Z,Alexander Bublik,Alexander Zverev,3.6,1.34,0.2713,0.7287,Betfair,tennis_atp_shanghai_masters,eu
+f40a4027ec6234e8e3a47359c9444700,2026-10-13T04:00:00Z,Arthur Gea,Jakub Mensik,2.45,1.54,0.3860,0.6140,Winamax (DE),tennis_atp_shanghai_masters,eu
+7d1f6f53111d38457872593fce36069b,2026-10-12T03:06:00Z,Anhelina Kalinina,Sonay Kartal,16,1.01,0.0594,0.9406,Unibet (NL),tennis_wta_wuhan_open,eu
+fd98debe847b0a1e0eb6de258518fba3,2026-10-12T03:06:00Z,Ekaterina Alexandrova,Leylah Fernandez,1.91,1.87,0.4947,0.5053,Unibet (NL),tennis_wta_wuhan_open,eu
+861dc414e5e4a52bbe292d7f258cdc32,2026-10-12T04:50:00Z,Aoi Ito,Janice Tjen,3.51,1.34,0.2763,0.7237,Pinnacle,tennis_wta_wuhan_open,eu
+3b1a4c9abfd1c51ab97cef7443137a3a,2026-10-12T04:50:00Z,Clara Tauson,Marie Bouzkova,2.9,1.41,0.3271,0.6729,Unibet (NL),tennis_wta_wuhan_open,eu
+98ea45eda61eb70b66f100e1b462e97b,2026-10-12T05:00:00Z,Anna Bondár,Mia Pohánková,1.99,2,0.5013,0.4987,Betfair,tennis_wta_wuhan_open,eu
+c2f9a98efcfe9e6d77e32926dcc48210,2026-10-12T05:55:00Z,Magdalena Frech,Mananchaya Sawangkaew,1.64,2.04,0.5543,0.4457,PMU (FR),tennis_wta_wuhan_open,eu
+60942cefceead65ac71ce9b5626189da,2026-10-12T06:00:00Z,Donna Vekic,Maria Sakkari,2.3,1.62,0.4133,0.5867,Unibet (NL),tennis_wta_wuhan_open,eu
+1d9a29a804b4347c15e129def9d5991a,2026-10-12T06:00:00Z,Jasmine Paolini,Sara Bejlek,1.94,1.85,0.4881,0.5119,Unibet (NL),tennis_wta_wuhan_open,eu
+e7302cd97325fa9ce3be08a3f30c8840,2026-10-12T07:10:00Z,Caty McNally,Yuliia Starodubtseva,1.53,2.25,0.5952,0.4048,PMU (FR),tennis_wta_wuhan_open,eu
+312043c78cdd2a5299fc59c6ef1604dd,2026-10-12T11:30:00Z,Xinyu Wang,Xiyu Wang,1.89,1.89,0.5000,0.5000,Unibet (NL),tennis_wta_wuhan_open,eu
+c4f84f5bba9715bb2c94593dac8d48a2,2026-10-12T12:40:00Z,Alexandra Eala,Shi Han,1.17,4.1,0.7780,0.2220,PMU (FR),tennis_wta_wuhan_open,eu
+97d66b459517d34fc704b84d724d1fc9,2026-10-13T02:00:00Z,Ann Li,Qinwen Zheng,2.9,1.41,0.3271,0.6729,Unibet (NL),tennis_wta_wuhan_open,eu
+9ac3c8445cd97600ad2bfeddb08ab298,2026-10-13T02:00:00Z,Anna Kalinskaya,Shuai Zhang,1.34,2.8,0.6763,0.3237,PMU (FR),tennis_wta_wuhan_open,eu
+07ed704dea4dc8fe57d666b30315d078,2026-10-13T02:00:00Z,Belinda Bencic,Shuai Zhang,1.2,4.6,0.7931,0.2069,Unibet (NL),tennis_wta_wuhan_open,eu
+58a05f658522b6d5023cf97d25398dd0,2026-10-13T02:00:00Z,Cristina Bucsa,Dayana Yastremska,2.17,1.68,0.4364,0.5636,Unibet (NL),tennis_wta_wuhan_open,eu
+6249729c3a053b2b04a71c7ebb8a5592,2026-10-13T02:00:00Z,Daria Snigur,Elise Mertens,2.7,1.47,0.3525,0.6475,Unibet (NL),tennis_wta_wuhan_open,eu
+edb71f781bacf9149fb99fe258f18a77,2026-10-13T02:00:00Z,Diana Shnaider,Katie Boulter,1.26,3.85,0.7534,0.2466,Unibet (NL),tennis_wta_wuhan_open,eu
+b656aa0b1d9d8a618a4fea56f0f42777,2026-10-13T02:00:00Z,Guo Hanyu,Sorana Cirstea,6.75,1.11,0.1412,0.8588,Unibet (NL),tennis_wta_wuhan_open,eu
+151c74daf0dab5e36cb9e4534b7ee96e,2026-10-13T02:00:00Z,Katerina Siniakova,Liudmila Samsonova,2.02,1.8,0.4712,0.5288,Unibet (NL),tennis_wta_wuhan_open,eu
+ca8f67b4ba7f6878893aa698d93db921,2026-10-13T02:00:00Z,Lilli Tagger,Nikola Bartunkova,3.05,1.38,0.3115,0.6885,Unibet (NL),tennis_wta_wuhan_open,eu
+b47ce561a7388026c9ba2f638d8612da,2026-10-13T02:00:00Z,Maja Chwalinska,Mayar Sherif,1.22,4.25,0.7770,0.2230,Unibet (NL),tennis_wta_wuhan_open,eu
+33f73b748b59dda8d41b0e03704382dd,2026-10-13T04:00:00Z,Ann Li,Maria Camila Osorio Serrano,1.81,2.01,0.5262,0.4738,Betsson,tennis_wta_wuhan_open,eu
+7e81b8fa6053163c7a3ad655a5b24a4a,2026-10-13T04:00:00Z,Daria Kasatkina,Jelena Ostapenko,2.05,1.7,0.4533,0.5467,Tipico,tennis_wta_wuhan_open,eu
+42aa77fdd076af7d95fbe56b34077fa9,2026-10-13T04:00:00Z,Katie Volynets,Kimberly Birrell,1.47,2.5,0.6297,0.3703,Tipico,tennis_wta_wuhan_open,eu
+dad2fbbaadd0a4e15819fe57214f9aa2,2026-10-13T04:00:00Z,Yulia Putintseva,Zeynep Sonmez,1.72,2,0.5376,0.4624,Tipico,tennis_wta_wuhan_open,eu
