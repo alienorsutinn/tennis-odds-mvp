@@ -1,0 +1,13 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+7c66ab6e5bb9bc88359d8284d1aaa1ff,2026-10-15T06:30:00Z,Alejandro Davidovich Fokina,Arthur Gea,1.97,2,0.5038,0.4962,Betfair,tennis_atp_shanghai_masters,eu
+9f79a8611b72f362103f75adae40aa9f,2026-10-15T10:00:00Z,Alexander Zverev,Alex de Minaur,1.48,2.73,0.6485,0.3515,1xBet,tennis_atp_shanghai_masters,eu
+ef2bb3c52f4e2850db169deeec5c619b,2026-10-16T04:00:00Z,Casper Ruud,Rafael Jodar,2.12,1.73,0.4494,0.5506,Coolbet,tennis_atp_shanghai_masters,eu
+9dda9be8037459139ce1f25119c621ea,2026-10-16T04:00:00Z,Daniil Medvedev,Tommy Paul,1.41,2.4,0.6299,0.3701,Unibet (FR),tennis_atp_shanghai_masters,eu
+7a21aca444222176633bd1bece7ec245,2026-10-15T03:07:00Z,Diana Shnaider,Karolina Muchova,2.02,1.98,0.4950,0.5050,Betfair,tennis_wta_wuhan_open,eu
+8987e9482df3b495c0c2d8aeda3f401d,2026-10-15T04:00:00Z,Maria Sakkari,Mia Pohánková,1.44,2.75,0.6563,0.3437,888sport,tennis_wta_wuhan_open,eu
+d587b20f5986f6b97fa248bd35a8bc20,2026-10-15T04:30:00Z,Elina Svitolina,Guo Hanyu,1.1,7,0.8642,0.1358,888sport,tennis_wta_wuhan_open,eu
+dab1a5feb3d08824b9a8921140c5d186,2026-10-15T05:30:00Z,Iva Jović,Maja Chwalinska,1.31,3.45,0.7248,0.2752,Nordic Bet,tennis_wta_wuhan_open,eu
+8d3e349cd5cea6ee46daea638d17de1f,2026-10-15T07:00:00Z,Jasmine Paolini,Sonay Kartal,1.8,2.02,0.5288,0.4712,Nordic Bet,tennis_wta_wuhan_open,eu
+77446d5f0c628cf0be9a0d62c3a087d2,2026-10-15T07:30:00Z,Jelena Ostapenko,Leylah Fernandez,2.12,1.73,0.4494,0.5506,Betsson,tennis_wta_wuhan_open,eu
+26e9655a717f90ad0d2cf1325135ae63,2026-10-15T11:00:00Z,Ashlyn Krueger,Iga Swiatek,8,1.08,0.1189,0.8811,Unibet (NL),tennis_wta_wuhan_open,eu
+17f1b87340ae28fa6ddb8bdcdbe83c07,2026-10-15T12:10:00Z,Ann Li,Janice Tjen,1.56,2.4,0.6061,0.3939,Unibet (SE),tennis_wta_wuhan_open,eu
