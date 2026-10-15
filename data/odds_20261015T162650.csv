@@ -1,0 +1,7 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+ef2bb3c52f4e2850db169deeec5c619b,2026-10-16T06:30:00Z,Casper Ruud,Rafael Jodar,2.08,1.76,0.4583,0.5417,Coolbet,tennis_atp_shanghai_masters,eu
+9dda9be8037459139ce1f25119c621ea,2026-10-16T10:00:00Z,Daniil Medvedev,Tommy Paul,1.42,2.8,0.6635,0.3365,Unibet (FR),tennis_atp_shanghai_masters,eu
+85243da216a4bb91389e3da1f356f52c,2026-10-17T04:00:00Z,Alejandro Davidovich Fokina,Alexander Zverev,3.85,1.28,0.2495,0.7505,1xBet,tennis_atp_shanghai_masters,eu
+9289b5c0affcb229b5ab33881b4aca00,2026-10-16T03:00:00Z,Diana Shnaider,Jelena Ostapenko,1.41,3.01,0.6810,0.3190,1xBet,tennis_wta_wuhan_open,eu
+fa44de36bbafc64882e41dbe11b297d0,2026-10-16T04:30:00Z,Elina Svitolina,Sonay Kartal,1.49,2.7,0.6444,0.3556,1xBet,tennis_wta_wuhan_open,eu
+57c829ee7737c8e2e9dc552eea9f699f,2026-10-16T06:00:00Z,Maja Chwalinska,Maria Sakkari,2.22,1.8,0.4478,0.5522,Betfair,tennis_wta_wuhan_open,eu
