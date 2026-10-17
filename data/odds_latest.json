@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T16:12:09.899Z",
+  "fetchedAt": "2026-10-17T03:19:19.317Z",
   "region": "eu",
   "count": 4,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-10-17T08:30:00Z",
       "player1": "Alejandro Davidovich Fokina",
       "player2": "Alexander Zverev",
-      "odds1": 3.69,
-      "odds2": 1.3,
-      "prob1": "0.2605",
-      "prob2": "0.7395",
+      "odds1": 3.96,
+      "odds2": 1.27,
+      "prob1": "0.2428",
+      "prob2": "0.7572",
       "bookmaker": "1xBet",
       "sport_key": "tennis_atp_shanghai_masters",
       "region": "eu"
