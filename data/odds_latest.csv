@@ -1,3 +1,13 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-558c4df94e8e9d970b74c5213c82675c,2026-10-18T08:30:00Z,Alejandro Davidovich Fokina,Rafael Jodar,2.26,1.78,0.4406,0.5594,Matchbook,tennis_atp_shanghai_masters,eu
-6c0df7365e0bd69dc2354b2fa6434919,2026-10-18T10:30:00Z,Maja Chwalinska,Sonay Kartal,1.95,1.86,0.4882,0.5118,Marathon Bet,tennis_wta_wuhan_open,eu
+6e1d9822f7c1ba1bb3ac78a2e705a02b,2026-10-19T04:00:00Z,Elise Mertens,Leylah Fernandez,1.7,2.16,0.5596,0.4404,Unibet (NL),tennis_wta_ningbo_open,eu
+13f890177d71323c65766cec163e2a4b,2026-10-19T05:30:00Z,Shi Han,Sorana Cirstea,3.1,1.36,0.3049,0.6951,888sport,tennis_wta_ningbo_open,eu
+1084968d985bd977015f2ba4c2a37e39,2026-10-19T08:00:00Z,Aliaksandra Sasnovich,Daria Kasatkina,1.73,2.1,0.5483,0.4517,888sport,tennis_wta_ningbo_open,eu
+e14d2742a814f1339e5e25c31eb964ee,2026-10-19T09:30:00Z,Kamilla Rakhimova,Marie Bouzkova,3.3,1.33,0.2873,0.7127,888sport,tennis_wta_ningbo_open,eu
+0f805964444e0fb6b3352edfabf4a7f1,2026-10-19T11:30:00Z,Alexandra Eala,Diane Parry,1.33,3.3,0.7127,0.2873,Unibet (NL),tennis_wta_ningbo_open,eu
+37c97a8649374b914513e9ea0813a699,2026-10-20T04:00:00Z,Anhelina Kalinina,Jasmine Paolini,3.1,1.36,0.3049,0.6951,888sport,tennis_wta_ningbo_open,eu
+87131f180f73e3e8c2e14592ffe64531,2026-10-20T04:00:00Z,Belinda Bencic,Jelena Ostapenko,1.62,2.28,0.5846,0.4154,Unibet (NL),tennis_wta_ningbo_open,eu
+5b2a5e7afbeb10fae8fa298c912a25a1,2026-10-20T04:00:00Z,Cristina Bucsa,Polina Kudermetova,1.95,1.85,0.4868,0.5132,888sport,tennis_wta_ningbo_open,eu
+4f0f7ed96daefb6dbb87ec126546a495,2026-10-20T04:00:00Z,Diana Shnaider,Yulia Putintseva,1.25,4,0.7619,0.2381,888sport,tennis_wta_ningbo_open,eu
+3fb622e4c401942ab57b4528a044b298,2026-10-20T04:00:00Z,Ekaterina Alexandrova,Guo Hanyu,1.22,4.25,0.7770,0.2230,Unibet (NL),tennis_wta_ningbo_open,eu
+8827b9247e596fd74389063ab47e1e60,2026-10-20T04:00:00Z,Katarzyna Kawa,Maja Chwalinska,3.6,1.29,0.2638,0.7362,888sport,tennis_wta_ningbo_open,eu
+382e298ed707ab99e1aea406cebbb42f,2026-10-20T04:00:00Z,Sara Bejlek,Xiyu Wang,1.83,1.96,0.5172,0.4828,Unibet (NL),tennis_wta_ningbo_open,eu
