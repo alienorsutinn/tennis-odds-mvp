@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T15:05:56.776Z",
+  "fetchedAt": "2026-10-18T03:24:20.179Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -9,9 +9,9 @@
       "player1": "Alejandro Davidovich Fokina",
       "player2": "Rafael Jodar",
       "odds1": 2.26,
-      "odds2": 1.77,
-      "prob1": "0.4392",
-      "prob2": "0.5608",
+      "odds2": 1.78,
+      "prob1": "0.4406",
+      "prob2": "0.5594",
       "bookmaker": "Matchbook",
       "sport_key": "tennis_atp_shanghai_masters",
       "region": "eu"
@@ -21,10 +21,10 @@
       "start": "2026-10-18T10:30:00Z",
       "player1": "Maja Chwalinska",
       "player2": "Sonay Kartal",
-      "odds1": 2.26,
-      "odds2": 1.65,
-      "prob1": "0.4220",
-      "prob2": "0.5780",
+      "odds1": 1.95,
+      "odds2": 1.86,
+      "prob1": "0.4882",
+      "prob2": "0.5118",
       "bookmaker": "Marathon Bet",
       "sport_key": "tennis_wta_wuhan_open",
       "region": "eu"

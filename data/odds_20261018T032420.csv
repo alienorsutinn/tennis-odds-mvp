@@ -1,0 +1,3 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+558c4df94e8e9d970b74c5213c82675c,2026-10-18T08:30:00Z,Alejandro Davidovich Fokina,Rafael Jodar,2.26,1.78,0.4406,0.5594,Matchbook,tennis_atp_shanghai_masters,eu
+6c0df7365e0bd69dc2354b2fa6434919,2026-10-18T10:30:00Z,Maja Chwalinska,Sonay Kartal,1.95,1.86,0.4882,0.5118,Marathon Bet,tennis_wta_wuhan_open,eu
