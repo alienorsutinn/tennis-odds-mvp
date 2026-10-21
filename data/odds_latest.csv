@@ -1,9 +1,7 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-76669208f3d3fcdc0c8e043df5ab46ab,2026-10-21T05:00:00Z,Anastasia Zakharova,Marie Bouzkova,4.2,1.21,0.2237,0.7763,Betsson,tennis_wta_ningbo_open,eu
-6d35a679c6d7ad7551c06bf07a240079,2026-10-21T06:30:00Z,Aliaksandra Sasnovich,Leylah Fernandez,2.7,1.42,0.3447,0.6553,Winamax (FR),tennis_wta_ningbo_open,eu
-6a834f4acad379d1b79dc482590a5851,2026-10-21T08:00:00Z,Sara Bejlek,Sorana Cirstea,2.96,1.5,0.3363,0.6637,Betfair,tennis_wta_ningbo_open,eu
-b079d623b04803aa5e83ddef38689d87,2026-10-21T11:00:00Z,Ekaterina Alexandrova,Marta Kostyuk,2.3,1.62,0.4133,0.5867,William Hill,tennis_wta_ningbo_open,eu
-2790f03a39ec672cd20a0fb57c24cdab,2026-10-22T04:00:00Z,Alexandra Eala,Diana Shnaider,2.4,1.68,0.4118,0.5882,Betfair,tennis_wta_ningbo_open,eu
-b22bbc938da4853cc3b24227e1530341,2026-10-22T04:00:00Z,Belinda Bencic,Katarzyna Kawa,1.08,7.5,0.8741,0.1259,888sport,tennis_wta_ningbo_open,eu
-e08ebf78ffa7cff3ba4d5f58846854c2,2026-10-22T04:00:00Z,Elena Rybakina,Polina Kudermetova,1.08,5.5,0.8359,0.1641,Winamax (FR),tennis_wta_ningbo_open,eu
-0fb3913071cee064c0674f6ad49f6f09,2026-10-22T04:00:00Z,Iva Jović,Jasmine Paolini,1.42,2.4,0.6283,0.3717,Winamax (FR),tennis_wta_ningbo_open,eu
+0fb3913071cee064c0674f6ad49f6f09,2026-10-22T05:00:00Z,Iva Jović,Jasmine Paolini,1.45,2.6,0.6420,0.3580,Winamax (FR),tennis_wta_ningbo_open,eu
+b22bbc938da4853cc3b24227e1530341,2026-10-22T06:30:00Z,Belinda Bencic,Katarzyna Kawa,1.08,7.5,0.8741,0.1259,888sport,tennis_wta_ningbo_open,eu
+2790f03a39ec672cd20a0fb57c24cdab,2026-10-22T08:00:00Z,Alexandra Eala,Diana Shnaider,2.44,1.68,0.4078,0.5922,Betfair,tennis_wta_ningbo_open,eu
+e08ebf78ffa7cff3ba4d5f58846854c2,2026-10-22T11:00:00Z,Elena Rybakina,Polina Kudermetova,1.08,6.5,0.8575,0.1425,Winamax (FR),tennis_wta_ningbo_open,eu
+f34a0b19a0651c9e3720cf57770d105d,2026-10-23T04:00:00Z,Ekaterina Alexandrova,Leylah Fernandez,1.73,2.1,0.5483,0.4517,888sport,tennis_wta_ningbo_open,eu
+f5c4465f64797dcb67aa1b42fd45292e,2026-10-23T05:00:00Z,Marie Bouzkova,Sara Bejlek,1.67,2.2,0.5685,0.4315,888sport,tennis_wta_ningbo_open,eu
