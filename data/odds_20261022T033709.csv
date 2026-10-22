@@ -1,0 +1,7 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+0fb3913071cee064c0674f6ad49f6f09,2026-10-22T05:00:00Z,Iva Jović,Jasmine Paolini,1.43,2.65,0.6495,0.3505,Winamax (FR),tennis_wta_ningbo_open,eu
+b22bbc938da4853cc3b24227e1530341,2026-10-22T06:30:00Z,Belinda Bencic,Katarzyna Kawa,1.08,7.5,0.8741,0.1259,888sport,tennis_wta_ningbo_open,eu
+2790f03a39ec672cd20a0fb57c24cdab,2026-10-22T08:00:00Z,Alexandra Eala,Diana Shnaider,2.3,1.75,0.4321,0.5679,Betfair,tennis_wta_ningbo_open,eu
+e08ebf78ffa7cff3ba4d5f58846854c2,2026-10-22T11:00:00Z,Elena Rybakina,Polina Kudermetova,1.09,6.5,0.8564,0.1436,Winamax (FR),tennis_wta_ningbo_open,eu
+f34a0b19a0651c9e3720cf57770d105d,2026-10-23T04:00:00Z,Ekaterina Alexandrova,Leylah Fernandez,1.73,2.1,0.5483,0.4517,888sport,tennis_wta_ningbo_open,eu
+f5c4465f64797dcb67aa1b42fd45292e,2026-10-23T05:00:00Z,Marie Bouzkova,Sara Bejlek,1.61,2.3,0.5882,0.4118,888sport,tennis_wta_ningbo_open,eu
