@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T16:35:55.010Z",
+  "fetchedAt": "2026-10-24T03:36:07.441Z",
   "region": "eu",
   "count": 2,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-10-24T07:00:00Z",
       "player1": "Leylah Fernandez",
       "player2": "Marie Bouzkova",
-      "odds1": 1.89,
-      "odds2": 1.89,
-      "prob1": "0.5000",
-      "prob2": "0.5000",
+      "odds1": 1.92,
+      "odds2": 1.86,
+      "prob1": "0.4921",
+      "prob2": "0.5079",
       "bookmaker": "Nordic Bet",
       "sport_key": "tennis_wta_ningbo_open",
       "region": "eu"
@@ -21,10 +21,10 @@
       "start": "2026-10-24T09:30:00Z",
       "player1": "Diana Shnaider",
       "player2": "Elena Rybakina",
-      "odds1": 2.75,
-      "odds2": 1.45,
-      "prob1": "0.3452",
-      "prob2": "0.6548",
+      "odds1": 2.5,
+      "odds2": 1.53,
+      "prob1": "0.3797",
+      "prob2": "0.6203",
       "bookmaker": "Unibet (SE)",
       "sport_key": "tennis_wta_ningbo_open",
       "region": "eu"
