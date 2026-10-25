@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T15:30:12.170Z",
+  "fetchedAt": "2026-10-25T03:33:19.536Z",
   "region": "eu",
   "count": 1,
   "events": [
@@ -8,10 +8,10 @@
       "start": "2026-10-25T09:00:00Z",
       "player1": "Elena Rybakina",
       "player2": "Leylah Fernandez",
-      "odds1": 1.3,
-      "odds2": 3.5,
-      "prob1": "0.7292",
-      "prob2": "0.2708",
+      "odds1": 1.29,
+      "odds2": 3.6,
+      "prob1": "0.7362",
+      "prob2": "0.2638",
       "bookmaker": "888sport",
       "sport_key": "tennis_wta_ningbo_open",
       "region": "eu"
