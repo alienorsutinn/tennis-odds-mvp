@@ -1090,3 +1090,6 @@ timestamp,key,title,region,count
 2026-10-24T03:36:07.955Z,"tennis_wta_ningbo_open","WTA Ningbo Open",eu,2
 2026-10-24T15:30:12.804Z,"tennis_wta_ningbo_open","WTA Ningbo Open",eu,1
 2026-10-25T03:33:20.096Z,"tennis_wta_ningbo_open","WTA Ningbo Open",eu,1
+2026-10-26T18:21:06.160Z,"tennis_atp_swiss_indoors","ATP Swiss Indoors Basel",eu,12
+2026-10-26T18:21:06.160Z,"tennis_atp_vienna_open","ATP Vienna Open",eu,12
+2026-10-26T18:21:06.160Z,"tennis_wta_pan_pacific_open","WTA Pan Pacific Open",eu,10
