@@ -1,0 +1,27 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+8f999f650b2a7e10b180a15fc7f863c1,2026-10-28T11:10:00Z,Jan-Lennard Struff,Yannick Hanfmann,1.82,2.2,0.5473,0.4527,Matchbook,tennis_atp_swiss_indoors,eu
+622faf457a6ffd6d9effd2bc93280bac,2026-10-28T12:20:00Z,Denis Shapovalov,Rémy Bertola,1.37,3.6,0.7243,0.2757,Betfair,tennis_atp_swiss_indoors,eu
+de8fa64cdc8ed6fe9bd1fc42c6f115c6,2026-10-28T13:00:00Z,Casper Ruud,Nuno Borges,1.43,2.65,0.6495,0.3505,Winamax (FR),tennis_atp_swiss_indoors,eu
+af913a4b884253b828e9314e74cfb6b3,2026-10-28T14:10:00Z,Novak Djokovic,Ugo Humbert,1.39,3.21,0.6978,0.3022,Pinnacle,tennis_atp_swiss_indoors,eu
+4131305472a4538a7dd867552b8a5154,2026-10-28T17:00:00Z,Rinky Hijikata,Taylor Fritz,6.5,1.11,0.1459,0.8541,LeoVegas (SE),tennis_atp_swiss_indoors,eu
+6f5b58b184eac6128deada4527006869,2026-10-28T18:10:00Z,Holger Rune,Hubert Hurkacz,2.72,1.57,0.3660,0.6340,Matchbook,tennis_atp_swiss_indoors,eu
+17b7cfaa2dc6c21f39412e6017f54e9b,2026-10-29T10:00:00Z,Alex Michelsen,Arthur Fils,2.78,1.45,0.3428,0.6572,Coolbet,tennis_atp_swiss_indoors,eu
+53d4ccf860436088aa717efdf2c38d25,2026-10-29T10:00:00Z,Ben Shelton,Jerome Kym,1.29,3.6,0.7362,0.2638,888sport,tennis_atp_swiss_indoors,eu
+381536c46bd1e16a9236502df3f748e5,2026-10-29T10:00:00Z,Daniel Altmaier,Jiri Lehecka,4.2,1.12,0.2105,0.7895,Matchbook,tennis_atp_swiss_indoors,eu
+f7fa6060659fec573d7a7df3881aff82,2026-10-29T10:00:00Z,Rafael Jodar,Valentin Vacherot,1.26,3.25,0.7206,0.2794,Betclic (FR),tennis_atp_swiss_indoors,eu
+01c5f7c5dda8e39a8d33c84b8d9e323d,2026-10-28T12:30:00Z,Brandon Nakashima,Tallon Griekspoor,1.47,2.8,0.6557,0.3443,BetOnline.ag,tennis_atp_vienna_open,eu
+ad2ec395411c7dd956e92178f00c0c8d,2026-10-28T12:30:00Z,Daniel Merida Aguilar,Daniil Medvedev,3.49,1.32,0.2744,0.7256,BetOnline.ag,tennis_atp_vienna_open,eu
+84b3d47944a12f77e8f84c6442665671,2026-10-28T13:40:00Z,Frances Tiafoe,Lorenzo Musetti,1.78,2.09,0.5401,0.4599,BetOnline.ag,tennis_atp_vienna_open,eu
+fa400409de3b36b41d7f8316d636197e,2026-10-28T14:50:00Z,Adrian Mannarino,Jakub Mensik,4.9,1.25,0.2033,0.7967,Matchbook,tennis_atp_vienna_open,eu
+484a0fff5b3739c2bbc79cafff73007c,2026-10-28T16:30:00Z,Jurij Rodionov,Nikoloz Basilashvili,2.24,1.69,0.4300,0.5700,BetOnline.ag,tennis_atp_vienna_open,eu
+9249512284975eaacf64fcaced7e57b0,2026-10-28T19:00:00Z,Alex de Minaur,Learner Tien,1.85,1.94,0.5119,0.4881,Marathon Bet,tennis_atp_vienna_open,eu
+3b65bc657a2d7391944d9e343c189c52,2026-10-29T12:00:00Z,Flavio Cobolli,Matteo Berrettini,2.02,1.8,0.4712,0.5288,Coolbet,tennis_atp_vienna_open,eu
+9f79477cee7d1e998aa4b8a7beec9b28,2026-10-29T12:00:00Z,Luciano Darderi,Tommy Paul,3.45,1.22,0.2612,0.7388,Unibet (FR),tennis_atp_vienna_open,eu
+25ce39ca9e48b2351cf2d7163f921bb7,2026-10-28T01:30:00Z,Ekaterina Alexandrova,Kamilla Rakhimova,1.55,1.9,0.5507,0.4493,Unibet (FR),tennis_wta_pan_pacific_open,eu
+890be98a36df8c80a2d9cf81b180b48a,2026-10-28T04:40:00Z,Cristina Bucsa,Maya Joint,2,1.64,0.4505,0.5495,Unibet (FR),tennis_wta_pan_pacific_open,eu
+858c932001cd6c4b11fd5d677df55fc1,2026-10-28T05:50:00Z,Aliaksandra Sasnovich,Diana Shnaider,3.67,1.29,0.2601,0.7399,1xBet,tennis_wta_pan_pacific_open,eu
+a9fac6056a7fb978aceab5182f56271b,2026-10-28T08:00:00Z,Alexandra Eala,Talia Gibson,1.28,3,0.7009,0.2991,Unibet (FR),tennis_wta_pan_pacific_open,eu
+8cc69dee985efaaa4d02ce47ce9ae17a,2026-10-29T04:00:00Z,Alycia Parks,Kimberly Birrell,2.48,1.65,0.3995,0.6005,Betfair,tennis_wta_pan_pacific_open,eu
+1fa60410ca17efcd43616ab025a3b0e4,2026-10-29T04:00:00Z,Elena Rybakina,Yulia Putintseva,1.1,5,0.8197,0.1803,Unibet (FR),tennis_wta_pan_pacific_open,eu
+0148c3d6327ac9f98ddf4b277bfc8a3e,2026-10-29T04:00:00Z,Elise Mertens,Leylah Fernandez,1.81,1.8,0.4986,0.5014,Unibet (FR),tennis_wta_pan_pacific_open,eu
+d04e7e6ce329fccbd0b365240f807cca,2026-10-29T04:00:00Z,Mia Pohánková,Naomi Osaka,4.1,1.26,0.2351,0.7649,Winamax (DE),tennis_wta_pan_pacific_open,eu
