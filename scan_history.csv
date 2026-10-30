@@ -1114,3 +1114,6 @@ timestamp,key,title,region,count
 2026-10-30T04:43:12.841Z,"tennis_atp_swiss_indoors","ATP Swiss Indoors Basel",eu,4
 2026-10-30T04:43:12.841Z,"tennis_atp_vienna_open","ATP Vienna Open",eu,4
 2026-10-30T04:43:12.841Z,"tennis_wta_pan_pacific_open","WTA Pan Pacific Open",eu,3
+2026-10-30T17:46:32.449Z,"tennis_atp_swiss_indoors","ATP Swiss Indoors Basel",eu,3
+2026-10-30T17:46:32.449Z,"tennis_atp_vienna_open","ATP Vienna Open",eu,3
+2026-10-30T17:46:32.449Z,"tennis_wta_pan_pacific_open","WTA Pan Pacific Open",eu,2

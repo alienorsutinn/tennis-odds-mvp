@@ -1,0 +1,9 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+e01a16acf3ce50a010714d85d5ff6374,2026-10-30T17:05:32Z,Jerome Kym,Jiri Lehecka,5.6,1.1,0.1642,0.8358,Marathon Bet,tennis_atp_swiss_indoors,eu
+e66be09cbf07f4ca7b22ef19c32bcb30,2026-10-30T18:10:00Z,Jan-Lennard Struff,Nuno Borges,1.77,2.04,0.5354,0.4646,Marathon Bet,tennis_atp_swiss_indoors,eu
+5a856de2f4f6df9ea205100c2c304254,2026-10-31T14:00:00Z,Taylor Fritz,Valentin Vacherot,1.25,2.46,0.6631,0.3369,Betfair,tennis_atp_swiss_indoors,eu
+69ae427eb9d45bc2bc6b0ad750e25934,2026-10-30T16:51:01Z,Alexander Zverev,Arthur Fery,1,40,0.9756,0.0244,Betclic (FR),tennis_atp_vienna_open,eu
+94ca068a80e8dbb6686fd96d402bde0e,2026-10-30T19:00:00Z,Alex de Minaur,Matteo Berrettini,1.43,2.8,0.6619,0.3381,Betsson,tennis_atp_vienna_open,eu
+3f0addea74d69db2f1b7595d4fb2b1af,2026-10-31T12:00:00Z,Carlos Alcaraz,Daniil Medvedev,1.4,2.9,0.6744,0.3256,888sport,tennis_atp_vienna_open,eu
+c1a54362fbf98df45c2174b84374dd0c,2026-10-31T03:00:00Z,Kamilla Rakhimova,Leylah Fernandez,3.58,1.33,0.2709,0.7291,Pinnacle,tennis_wta_pan_pacific_open,eu
+e1ebafbb26d375e24280b3c08f4c384d,2026-10-31T04:30:00Z,Diana Shnaider,Mia Pohánková,1.4,2.9,0.6744,0.3256,William Hill,tennis_wta_pan_pacific_open,eu
