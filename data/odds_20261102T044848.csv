@@ -1,0 +1,25 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+9e065ecef1e149fdf4c5e361ba6d2f2b,2026-11-02T10:00:00Z,Hubert Hurkacz,Lorenzo Musetti,1.93,1.95,0.5026,0.4974,Pinnacle,tennis_atp_paris_masters,eu
+ab2cc6778482917ac72005c2edb26824,2026-11-02T10:00:00Z,Ignacio Buse,Zizou Bergs,3.1,1.36,0.3049,0.6951,888sport,tennis_atp_paris_masters,eu
+f510a63a2e3852e183f84eb8cd44fcac,2026-11-02T10:00:00Z,Luciano Darderi,Rinky Hijikata,1.98,1.76,0.4706,0.5294,Winamax (FR),tennis_atp_paris_masters,eu
+0b15b685479df1479050365848bcfe54,2026-11-02T11:10:00Z,Alejandro Tabilo,Rafael Jodar,4.2,1.22,0.2251,0.7749,888sport,tennis_atp_paris_masters,eu
+35c20c072dc49b1f1762bd71838ad56b,2026-11-02T11:10:00Z,Luca Van Assche,Mariano Navone,1.61,2.3,0.5882,0.4118,888sport,tennis_atp_paris_masters,eu
+d54412ae826f63d7234c2ea00d4809ac,2026-11-02T12:20:00Z,Alexander Blockx,Daniel Merida Aguilar,1.66,2.34,0.5850,0.4150,Pinnacle,tennis_atp_paris_masters,eu
+a397cd2c21e2038f589dfcc1bbf4a5d9,2026-11-02T12:20:00Z,Cameron Norrie,Matteo Arnaldi,1.44,2.75,0.6563,0.3437,888sport,tennis_atp_paris_masters,eu
+99851274de5cc3c943371f330f1b4c71,2026-11-02T12:20:00Z,Casper Ruud,Juan Manuel Cerundolo,1.35,2.95,0.6860,0.3140,Winamax (FR),tennis_atp_paris_masters,eu
+a916463c001545483b340777daefd7c6,2026-11-02T13:30:00Z,Lorenzo Sonego,Mattia Bellucci,2.24,1.64,0.4227,0.5773,Marathon Bet,tennis_atp_paris_masters,eu
+b363b01046ccc43cdfcc7e7f4e42d735,2026-11-02T14:30:00Z,Kyrian Jacquet,Tomas Machac,2.54,1.51,0.3728,0.6272,Marathon Bet,tennis_atp_paris_masters,eu
+44f0dc12e4fa4b0ef607420fecfd8eb6,2026-11-02T15:40:00Z,Alex Molcan,Titouan Droguet,1.77,2.04,0.5354,0.4646,Marathon Bet,tennis_atp_paris_masters,eu
+1a6898d788e3c5c7ecfb78edf5d4e8ab,2026-11-02T18:00:00Z,Denis Shapovalov,Karen Khachanov,2.3,1.61,0.4118,0.5882,888sport,tennis_atp_paris_masters,eu
+85efb20e93a6ca08964f6239e9956dae,2026-11-02T19:30:00Z,Botic van de Zandschulp,Ugo Humbert,2.3,1.61,0.4118,0.5882,888sport,tennis_atp_paris_masters,eu
+b04959d8930aba4535db09fe57f9d093,2026-11-03T09:00:00Z,Alejandro Davidovich Fokina,Moise Kouame,1.36,3.34,0.7106,0.2894,Pinnacle,tennis_atp_paris_masters,eu
+1ead1ee3704640aea824a5759ad1cc28,2026-11-03T09:00:00Z,Novak Djokovic,Valentin Vacherot,1.43,2.97,0.6750,0.3250,Pinnacle,tennis_atp_paris_masters,eu
+766892f0324922ef7aab73a2713af3c2,2026-11-03T10:00:00Z,Alex Michelsen,Jiri Lehecka,2.2,1.67,0.4315,0.5685,888sport,tennis_atp_paris_masters,eu
+d25fdbba0ee28a3bbfa27a1b7bf0310b,2026-11-03T10:00:00Z,Andrey Rublev,Tomas Martin Etcheverry,1.36,3.1,0.6951,0.3049,888sport,tennis_atp_paris_masters,eu
+90da92cf3a7e75dbd2eb358af0340fa8,2026-11-03T10:00:00Z,Arthur Fery,Quentin Halys,2.2,1.67,0.4315,0.5685,888sport,tennis_atp_paris_masters,eu
+232e9e6ce004ffcdda5130a7f432eb15,2026-11-03T10:00:00Z,Arthur Gea,Jan-Lennard Struff,1.77,2.04,0.5354,0.4646,Marathon Bet,tennis_atp_paris_masters,eu
+db55f6491d2491e31599e3af63c11471,2026-11-03T10:00:00Z,Arthur Rinderknech,Francisco Cerundolo,2.6,1.5,0.3659,0.6341,888sport,tennis_atp_paris_masters,eu
+dcf8effd6f985422ab07f5c909334937,2026-11-03T10:00:00Z,Benjamin Bonzi,Taylor Fritz,4.25,1.22,0.2230,0.7770,Marathon Bet,tennis_atp_paris_masters,eu
+18d9ea3abcfe85f9ae47dc0433ac57c7,2026-11-03T10:00:00Z,Brandon Nakashima,Matteo Berrettini,1.67,2.2,0.5685,0.4315,888sport,tennis_atp_paris_masters,eu
+2fe52476d7d37d8230ca007cdf25c34c,2026-11-03T10:00:00Z,Holger Rune,Tommy Paul,2.6,1.5,0.3659,0.6341,888sport,tennis_atp_paris_masters,eu
+c2e61aa3d1076fb1efc4756a1006e80a,2026-11-03T10:00:00Z,Learner Tien,Stefanos Tsitsipas,1.73,2.1,0.5483,0.4517,888sport,tennis_atp_paris_masters,eu
