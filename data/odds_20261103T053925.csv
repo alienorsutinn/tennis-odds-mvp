@@ -1,0 +1,17 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+b04959d8930aba4535db09fe57f9d093,2026-11-03T09:00:00Z,Alejandro Davidovich Fokina,Moise Kouame,1.35,3.49,0.7211,0.2789,Pinnacle,tennis_atp_paris_masters,eu
+1ead1ee3704640aea824a5759ad1cc28,2026-11-03T09:00:00Z,Novak Djokovic,Valentin Vacherot,1.47,2.89,0.6628,0.3372,Pinnacle,tennis_atp_paris_masters,eu
+d25fdbba0ee28a3bbfa27a1b7bf0310b,2026-11-03T10:00:00Z,Andrey Rublev,Tomas Martin Etcheverry,1.4,2.9,0.6744,0.3256,888sport,tennis_atp_paris_masters,eu
+90da92cf3a7e75dbd2eb358af0340fa8,2026-11-03T10:00:00Z,Arthur Fery,Quentin Halys,2.2,1.67,0.4315,0.5685,888sport,tennis_atp_paris_masters,eu
+db55f6491d2491e31599e3af63c11471,2026-11-03T10:00:00Z,Arthur Rinderknech,Francisco Cerundolo,2.5,1.53,0.3797,0.6203,888sport,tennis_atp_paris_masters,eu
+18d9ea3abcfe85f9ae47dc0433ac57c7,2026-11-03T11:10:00Z,Brandon Nakashima,Matteo Berrettini,1.61,2.3,0.5882,0.4118,888sport,tennis_atp_paris_masters,eu
+c2e61aa3d1076fb1efc4756a1006e80a,2026-11-03T11:10:00Z,Learner Tien,Stefanos Tsitsipas,1.73,2.1,0.5483,0.4517,888sport,tennis_atp_paris_masters,eu
+2fe52476d7d37d8230ca007cdf25c34c,2026-11-03T12:20:00Z,Holger Rune,Tommy Paul,2.6,1.5,0.3659,0.6341,888sport,tennis_atp_paris_masters,eu
+766892f0324922ef7aab73a2713af3c2,2026-11-03T14:00:00Z,Alex Michelsen,Jiri Lehecka,2.2,1.67,0.4315,0.5685,888sport,tennis_atp_paris_masters,eu
+dcf8effd6f985422ab07f5c909334937,2026-11-03T14:30:00Z,Benjamin Bonzi,Taylor Fritz,4,1.24,0.2366,0.7634,Marathon Bet,tennis_atp_paris_masters,eu
+232e9e6ce004ffcdda5130a7f432eb15,2026-11-03T15:40:00Z,Arthur Gea,Jan-Lennard Struff,1.8,2,0.5263,0.4737,Marathon Bet,tennis_atp_paris_masters,eu
+158872469ece00415aefaa0eaecab4f0,2026-11-03T18:00:00Z,Ben Shelton,Cameron Norrie,1.37,3.15,0.6969,0.3031,Nordic Bet,tennis_atp_paris_masters,eu
+42bb4ea6113cbbd3effbb4904bf80c9b,2026-11-03T19:30:00Z,Casper Ruud,Rafael Jodar,2.68,1.57,0.3694,0.6306,Betfair,tennis_atp_paris_masters,eu
+25d8efdbfad95b30f2e8c67fd47f72fc,2026-11-04T10:00:00Z,Alexander Zverev,Lorenzo Musetti,1.41,2.9,0.6729,0.3271,Unibet (SE),tennis_atp_paris_masters,eu
+1cd952bfa7bc99f45d2ced1b80209056,2026-11-04T10:00:00Z,Arthur Fils,Tomas Machac,1.46,2.69,0.6482,0.3518,Marathon Bet,tennis_atp_paris_masters,eu
+bc5dffba531009c0a80d3facb9410062,2026-11-04T10:00:00Z,Daniil Medvedev,Ignacio Buse,1.14,6.05,0.8414,0.1586,1xBet,tennis_atp_paris_masters,eu
