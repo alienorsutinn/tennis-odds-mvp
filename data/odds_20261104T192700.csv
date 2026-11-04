@@ -1,0 +1,10 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+9c047eea4b968d8a8c3f35fd16ce9e6d,2026-11-04T17:34:45Z,Matteo Berrettini,Ugo Humbert,1.2,4.8,0.8000,0.2000,Betfair,tennis_atp_paris_masters,eu
+83e3278f7f08fc8e5f9d88ec513d0aeb,2026-11-04T18:06:18Z,Jan-Lennard Struff,Thiago Agustin Tirante,2.16,1.83,0.4586,0.5414,Betfair,tennis_atp_paris_masters,eu
+e9c7e8bc7876cbb19446a417d0447cf0,2026-11-04T18:09:48Z,Alex Michelsen,Carlos Alcaraz,5.5,1.01,0.1551,0.8449,Unibet (FR),tennis_atp_paris_masters,eu
+1cd952bfa7bc99f45d2ced1b80209056,2026-11-04T19:40:00Z,Arthur Fils,Tomas Machac,1.46,2.46,0.6276,0.3724,Betclic (FR),tennis_atp_paris_masters,eu
+4111a4ac0ae11935311b655ebadd040b,2026-11-05T10:00:00Z,Quentin Halys,Tommy Paul,3.65,1.34,0.2685,0.7315,Betfair,tennis_atp_paris_masters,eu
+8a2e76c34cf0bce53c2afc75d9f2793e,2026-11-05T11:10:00Z,Arthur Rinderknech,Ben Shelton,3.05,1.23,0.2874,0.7126,Unibet (FR),tennis_atp_paris_masters,eu
+8962e5108426884c7237a80948c77cfb,2026-11-05T12:20:00Z,Lorenzo Musetti,Luca Van Assche,1.27,2.85,0.6917,0.3083,Unibet (FR),tennis_atp_paris_masters,eu
+ce54c1892701e4d3d4713f621a47cc00,2026-11-05T13:00:00Z,Rinky Hijikata,Tomas Martin Etcheverry,2.08,1.75,0.4569,0.5431,Nordic Bet,tennis_atp_paris_masters,eu
+235263f6f3bbd21f2327b39e61407934,2026-11-05T14:10:00Z,Ignacio Buse,Nuno Borges,1.81,1.7,0.4843,0.5157,Unibet (FR),tennis_atp_paris_masters,eu
