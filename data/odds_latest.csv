@@ -1,9 +1,5 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-4111a4ac0ae11935311b655ebadd040b,2026-11-05T10:00:00Z,Quentin Halys,Tommy Paul,3.85,1.34,0.2582,0.7418,Betfair,tennis_atp_paris_masters,eu
-8a2e76c34cf0bce53c2afc75d9f2793e,2026-11-05T11:10:00Z,Arthur Rinderknech,Ben Shelton,3.35,1.28,0.2765,0.7235,Unibet (FR),tennis_atp_paris_masters,eu
-8962e5108426884c7237a80948c77cfb,2026-11-05T12:20:00Z,Lorenzo Musetti,Luca Van Assche,1.27,3.05,0.7060,0.2940,Unibet (FR),tennis_atp_paris_masters,eu
-ce54c1892701e4d3d4713f621a47cc00,2026-11-05T13:00:00Z,Rinky Hijikata,Tomas Martin Etcheverry,2.05,1.77,0.4634,0.5366,Nordic Bet,tennis_atp_paris_masters,eu
-235263f6f3bbd21f2327b39e61407934,2026-11-05T14:10:00Z,Ignacio Buse,Nuno Borges,2.1,1.55,0.4247,0.5753,Unibet (FR),tennis_atp_paris_masters,eu
-47d9edba7490e876194504362c877fe3,2026-11-05T15:20:00Z,Casper Ruud,Jan-Lennard Struff,1.5,2.6,0.6341,0.3659,Nordic Bet,tennis_atp_paris_masters,eu
-1ef82c68f5ccf78aa0a6d031f750cc6e,2026-11-05T18:00:00Z,Carlos Alcaraz,Matteo Berrettini,1.15,5.6,0.8296,0.1704,Nordic Bet,tennis_atp_paris_masters,eu
-6a03e950601f142942705acfb764d107,2026-11-05T19:30:00Z,Arthur Fils,Taylor Fritz,1.7,1.92,0.5304,0.4696,Winamax (FR),tennis_atp_paris_masters,eu
+6a03e950601f142942705acfb764d107,2026-11-05T18:15:37Z,Arthur Fils,Taylor Fritz,27,1,0.0357,0.9643,Winamax (FR),tennis_atp_paris_masters,eu
+47d9edba7490e876194504362c877fe3,2026-11-05T19:40:00Z,Casper Ruud,Jan-Lennard Struff,1.44,2.8,0.6604,0.3396,Nordic Bet,tennis_atp_paris_masters,eu
+10a66a309af482f75813cc0d9ce0bdd1,2026-11-06T13:00:00Z,Ben Shelton,Tommy Paul,2.04,1.79,0.4674,0.5326,GTbets,tennis_atp_paris_masters,eu
+f1676b13a42184d83dee9e84e1b17aa5,2026-11-06T14:10:00Z,Luca Van Assche,Rinky Hijikata,1.61,2.58,0.6158,0.3842,Betfair,tennis_atp_paris_masters,eu
