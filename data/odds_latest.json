@@ -1,34 +1,8 @@
 {
-  "fetchedAt": "2026-11-05T19:36:50.035Z",
+  "fetchedAt": "2026-11-06T05:28:41.860Z",
   "region": "eu",
   "count": 4,
   "events": [
-    {
-      "event_id": "6a03e950601f142942705acfb764d107",
-      "start": "2026-11-05T18:15:37Z",
-      "player1": "Arthur Fils",
-      "player2": "Taylor Fritz",
-      "odds1": 27,
-      "odds2": 1,
-      "prob1": "0.0357",
-      "prob2": "0.9643",
-      "bookmaker": "Winamax (FR)",
-      "sport_key": "tennis_atp_paris_masters",
-      "region": "eu"
-    },
-    {
-      "event_id": "47d9edba7490e876194504362c877fe3",
-      "start": "2026-11-05T19:40:00Z",
-      "player1": "Casper Ruud",
-      "player2": "Jan-Lennard Struff",
-      "odds1": 1.44,
-      "odds2": 2.8,
-      "prob1": "0.6604",
-      "prob2": "0.3396",
-      "bookmaker": "Nordic Bet",
-      "sport_key": "tennis_atp_paris_masters",
-      "region": "eu"
-    },
     {
       "event_id": "10a66a309af482f75813cc0d9ce0bdd1",
       "start": "2026-11-06T13:00:00Z",
@@ -47,11 +21,37 @@
       "start": "2026-11-06T14:10:00Z",
       "player1": "Luca Van Assche",
       "player2": "Rinky Hijikata",
-      "odds1": 1.61,
-      "odds2": 2.58,
-      "prob1": "0.6158",
-      "prob2": "0.3842",
+      "odds1": 1.63,
+      "odds2": 2.56,
+      "prob1": "0.6110",
+      "prob2": "0.3890",
       "bookmaker": "Betfair",
+      "sport_key": "tennis_atp_paris_masters",
+      "region": "eu"
+    },
+    {
+      "event_id": "e4e0781ebc80c47d216dd73609a3c8e0",
+      "start": "2026-11-06T18:00:00Z",
+      "player1": "Carlos Alcaraz",
+      "player2": "Taylor Fritz",
+      "odds1": 1.35,
+      "odds2": 3.25,
+      "prob1": "0.7065",
+      "prob2": "0.2935",
+      "bookmaker": "Unibet (SE)",
+      "sport_key": "tennis_atp_paris_masters",
+      "region": "eu"
+    },
+    {
+      "event_id": "0adc47c275819823d018232033a6de7f",
+      "start": "2026-11-06T19:30:00Z",
+      "player1": "Casper Ruud",
+      "player2": "Nuno Borges",
+      "odds1": 1.46,
+      "odds2": 2.8,
+      "prob1": "0.6573",
+      "prob2": "0.3427",
+      "bookmaker": "1xBet",
       "sport_key": "tennis_atp_paris_masters",
       "region": "eu"
     }

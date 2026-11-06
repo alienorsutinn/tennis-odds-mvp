@@ -1,5 +1,5 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-6a03e950601f142942705acfb764d107,2026-11-05T18:15:37Z,Arthur Fils,Taylor Fritz,27,1,0.0357,0.9643,Winamax (FR),tennis_atp_paris_masters,eu
-47d9edba7490e876194504362c877fe3,2026-11-05T19:40:00Z,Casper Ruud,Jan-Lennard Struff,1.44,2.8,0.6604,0.3396,Nordic Bet,tennis_atp_paris_masters,eu
 10a66a309af482f75813cc0d9ce0bdd1,2026-11-06T13:00:00Z,Ben Shelton,Tommy Paul,2.04,1.79,0.4674,0.5326,GTbets,tennis_atp_paris_masters,eu
-f1676b13a42184d83dee9e84e1b17aa5,2026-11-06T14:10:00Z,Luca Van Assche,Rinky Hijikata,1.61,2.58,0.6158,0.3842,Betfair,tennis_atp_paris_masters,eu
+f1676b13a42184d83dee9e84e1b17aa5,2026-11-06T14:10:00Z,Luca Van Assche,Rinky Hijikata,1.63,2.56,0.6110,0.3890,Betfair,tennis_atp_paris_masters,eu
+e4e0781ebc80c47d216dd73609a3c8e0,2026-11-06T18:00:00Z,Carlos Alcaraz,Taylor Fritz,1.35,3.25,0.7065,0.2935,Unibet (SE),tennis_atp_paris_masters,eu
+0adc47c275819823d018232033a6de7f,2026-11-06T19:30:00Z,Casper Ruud,Nuno Borges,1.46,2.8,0.6573,0.3427,1xBet,tennis_atp_paris_masters,eu
