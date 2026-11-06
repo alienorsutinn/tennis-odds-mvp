@@ -1,0 +1,4 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+e4e0781ebc80c47d216dd73609a3c8e0,2026-11-06T19:04:00Z,Carlos Alcaraz,Taylor Fritz,1.33,3.3,0.7127,0.2873,Unibet (SE),tennis_atp_paris_masters,eu
+0adc47c275819823d018232033a6de7f,2026-11-06T19:30:00Z,Casper Ruud,Nuno Borges,1.44,2.88,0.6667,0.3333,1xBet,tennis_atp_paris_masters,eu
+9ebb22b87460accfb899c0e613b47651,2026-11-07T13:30:00Z,Ben Shelton,Luca Van Assche,1.2,3.3,0.7333,0.2667,Unibet (FR),tennis_atp_paris_masters,eu
