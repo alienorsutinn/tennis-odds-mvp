@@ -1,44 +1,31 @@
 {
-  "fetchedAt": "2026-11-06T18:58:18.576Z",
+  "fetchedAt": "2026-11-07T04:57:07.001Z",
   "region": "eu",
-  "count": 3,
+  "count": 2,
   "events": [
-    {
-      "event_id": "e4e0781ebc80c47d216dd73609a3c8e0",
-      "start": "2026-11-06T19:04:00Z",
-      "player1": "Carlos Alcaraz",
-      "player2": "Taylor Fritz",
-      "odds1": 1.33,
-      "odds2": 3.3,
-      "prob1": "0.7127",
-      "prob2": "0.2873",
-      "bookmaker": "Unibet (SE)",
-      "sport_key": "tennis_atp_paris_masters",
-      "region": "eu"
-    },
-    {
-      "event_id": "0adc47c275819823d018232033a6de7f",
-      "start": "2026-11-06T19:30:00Z",
-      "player1": "Casper Ruud",
-      "player2": "Nuno Borges",
-      "odds1": 1.44,
-      "odds2": 2.88,
-      "prob1": "0.6667",
-      "prob2": "0.3333",
-      "bookmaker": "1xBet",
-      "sport_key": "tennis_atp_paris_masters",
-      "region": "eu"
-    },
     {
       "event_id": "9ebb22b87460accfb899c0e613b47651",
       "start": "2026-11-07T13:30:00Z",
       "player1": "Ben Shelton",
       "player2": "Luca Van Assche",
-      "odds1": 1.2,
-      "odds2": 3.3,
-      "prob1": "0.7333",
-      "prob2": "0.2667",
+      "odds1": 1.23,
+      "odds2": 3.5,
+      "prob1": "0.7400",
+      "prob2": "0.2600",
       "bookmaker": "Unibet (FR)",
+      "sport_key": "tennis_atp_paris_masters",
+      "region": "eu"
+    },
+    {
+      "event_id": "d4b8a9b232417b21fd0dd2de1af179ee",
+      "start": "2026-11-07T16:00:00Z",
+      "player1": "Carlos Alcaraz",
+      "player2": "Casper Ruud",
+      "odds1": 1.22,
+      "odds2": 5.4,
+      "prob1": "0.8157",
+      "prob2": "0.1843",
+      "bookmaker": "Betfair",
       "sport_key": "tennis_atp_paris_masters",
       "region": "eu"
     }
