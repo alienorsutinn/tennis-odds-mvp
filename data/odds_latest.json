@@ -1,20 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T04:51:02.026Z",
+  "fetchedAt": "2026-11-08T17:41:43.070Z",
   "region": "eu",
-  "count": 1,
-  "events": [
-    {
-      "event_id": "2c1005d01a3f63cd2249facf4ce5f5ed",
-      "start": "2026-11-08T14:00:00Z",
-      "player1": "Ben Shelton",
-      "player2": "Carlos Alcaraz",
-      "odds1": 3.85,
-      "odds2": 1.27,
-      "prob1": "0.2480",
-      "prob2": "0.7520",
-      "bookmaker": "Nordic Bet",
-      "sport_key": "tennis_atp_paris_masters",
-      "region": "eu"
-    }
-  ]
+  "count": 0,
+  "events": []
 }
