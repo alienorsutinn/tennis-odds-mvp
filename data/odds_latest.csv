@@ -1,5 +1,4 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-ef9c0fc8fc1cd492cac4edd668d60a72,2026-11-10T20:00:00Z,Jessica Pegula,Marta Kostyuk,1.56,2.74,0.6372,0.3628,Betfair,tennis_wta_finals,eu
-0066b4bf94846e710339ce11591e33f8,2026-11-10T21:10:00Z,Coco Gauff,Linda Noskova,1.61,2.58,0.6158,0.3842,Betfair,tennis_wta_finals,eu
-d87ade1e56f0c96e3b28b59dea344837,2026-11-11T20:00:00Z,Elina Svitolina,Karolina Muchova,2.34,1.73,0.4251,0.5749,Betfair,tennis_wta_finals,eu
-d1549c8585e649677db3579affc1da2e,2026-11-11T21:10:00Z,Aryna Sabalenka,Mirra Andreeva,1.92,2.06,0.5176,0.4824,Betfair,tennis_wta_finals,eu
+d87ade1e56f0c96e3b28b59dea344837,2026-11-11T20:00:00Z,Elina Svitolina,Karolina Muchova,2.36,1.72,0.4216,0.5784,Betfair,tennis_wta_finals,eu
+d1549c8585e649677db3579affc1da2e,2026-11-11T21:10:00Z,Aryna Sabalenka,Mirra Andreeva,1.95,2.02,0.5088,0.4912,Betfair,tennis_wta_finals,eu
+b8a1b5d0077794775db0a2ca6b15baf7,2026-11-12T20:00:00Z,Coco Gauff,Marta Kostyuk,1.28,3.97,0.7562,0.2438,1xBet,tennis_wta_finals,eu

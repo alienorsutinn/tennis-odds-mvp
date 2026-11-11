@@ -1,0 +1,4 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+d87ade1e56f0c96e3b28b59dea344837,2026-11-11T20:00:00Z,Elina Svitolina,Karolina Muchova,2.36,1.72,0.4216,0.5784,Betfair,tennis_wta_finals,eu
+d1549c8585e649677db3579affc1da2e,2026-11-11T21:10:00Z,Aryna Sabalenka,Mirra Andreeva,1.95,2.02,0.5088,0.4912,Betfair,tennis_wta_finals,eu
+b8a1b5d0077794775db0a2ca6b15baf7,2026-11-12T20:00:00Z,Coco Gauff,Marta Kostyuk,1.28,3.97,0.7562,0.2438,1xBet,tennis_wta_finals,eu
