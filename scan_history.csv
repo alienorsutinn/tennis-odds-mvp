@@ -1148,3 +1148,5 @@ timestamp,key,title,region,count
 2026-11-12T06:03:19.752Z,"tennis_wta_finals","WTA Finals",eu,2
 2026-11-12T19:37:32.516Z,"tennis_wta_finals","WTA Finals",eu,4
 2026-11-13T05:27:40.299Z,"tennis_wta_finals","WTA Finals",eu,2
+2026-11-13T19:17:27.286Z,"tennis_atp_finals","ATP Finals",eu,4
+2026-11-13T19:17:27.286Z,"tennis_wta_finals","WTA Finals",eu,3

@@ -1,0 +1,8 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+a09dfd51fadc5c32dd0adb4f799b8628,2026-11-15T13:00:00Z,Alexander Zverev,Rafael Jodar,1.44,2.85,0.6643,0.3357,BetAnything,tennis_atp_finals,eu
+2e7a66dfb5caacad9c224d3eaf230dee,2026-11-15T19:30:00Z,Arthur Fils,Ben Shelton,2.45,1.59,0.3936,0.6064,BetAnything,tennis_atp_finals,eu
+c81851847baf5e3a479993ec167a8e2a,2026-11-16T13:00:00Z,Carlos Alcaraz,Frances Tiafoe,1.12,6.25,0.8480,0.1520,BetAnything,tennis_atp_finals,eu
+7ac3bf138012785e65835d1481524d5c,2026-11-16T19:30:00Z,Daniil Medvedev,Flavio Cobolli,1.24,4.2,0.7721,0.2279,BetAnything,tennis_atp_finals,eu
+7a3793ffa0858a51e84d1d912416a16c,2026-11-13T20:00:00Z,Diana Shnaider,Mirra Andreeva,3.55,1.31,0.2695,0.7305,Betfair,tennis_wta_finals,eu
+29a6e4e35a3b385e9666473ad68f2084,2026-11-13T21:30:00Z,Aryna Sabalenka,Elina Svitolina,1.5,2.96,0.6637,0.3363,Betfair,tennis_wta_finals,eu
+53d87628f7d7ae2c16b9b10ab1be03ab,2026-11-14T15:00:00Z,Jessica Pegula,Mirra Andreeva,2.6,1.5,0.3659,0.6341,Nordic Bet,tennis_wta_finals,eu
