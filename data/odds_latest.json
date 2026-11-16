@@ -1,21 +1,8 @@
 {
-  "fetchedAt": "2026-11-15T18:32:50.433Z",
+  "fetchedAt": "2026-11-16T05:09:25.180Z",
   "region": "eu",
-  "count": 4,
+  "count": 2,
   "events": [
-    {
-      "event_id": "2e7a66dfb5caacad9c224d3eaf230dee",
-      "start": "2026-11-15T19:30:00Z",
-      "player1": "Arthur Fils",
-      "player2": "Ben Shelton",
-      "odds1": 2.5,
-      "odds2": 1.57,
-      "prob1": "0.3857",
-      "prob2": "0.6143",
-      "bookmaker": "BetAnything",
-      "sport_key": "tennis_atp_finals",
-      "region": "eu"
-    },
     {
       "event_id": "c81851847baf5e3a479993ec167a8e2a",
       "start": "2026-11-16T13:00:00Z",
@@ -40,19 +27,6 @@
       "prob2": "0.2480",
       "bookmaker": "BetAnything",
       "sport_key": "tennis_atp_finals",
-      "region": "eu"
-    },
-    {
-      "event_id": "db0cf55e0c26bfbf59d91c22de428d25",
-      "start": "2026-11-15T20:00:00Z",
-      "player1": "Elina Svitolina",
-      "player2": "Mirra Andreeva",
-      "odds1": 3.55,
-      "odds2": 1.38,
-      "prob1": "0.2799",
-      "prob2": "0.7201",
-      "bookmaker": "Matchbook",
-      "sport_key": "tennis_wta_finals",
       "region": "eu"
     }
   ]
