@@ -1,0 +1,5 @@
+event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
+b347b8bd2e85f10eca7dc7160026443b,2026-11-17T13:00:00Z,Arthur Fils,Rafael Jodar,2,1.99,0.4987,0.5013,Betfair,tennis_atp_finals,eu
+f0a6612a0e894025a58459b04ecd02c9,2026-11-17T19:30:00Z,Alexander Zverev,Ben Shelton,1.42,2.58,0.6450,0.3550,Betclic (FR),tennis_atp_finals,eu
+a3e64105988f48f4c6447c9ca6de0030,2026-11-18T13:00:00Z,Carlos Alcaraz,Daniil Medvedev,1.28,3.7,0.7430,0.2570,Unibet (NL),tennis_atp_finals,eu
+5f11f792535a031c557f8a33a8093f18,2026-11-18T19:30:00Z,Flavio Cobolli,Frances Tiafoe,1.96,1.83,0.4828,0.5172,Unibet (NL),tennis_atp_finals,eu

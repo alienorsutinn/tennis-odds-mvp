@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-16T21:42:17.744Z",
+  "fetchedAt": "2026-11-17T06:54:56.777Z",
   "region": "eu",
-  "count": 2,
+  "count": 4,
   "events": [
     {
       "event_id": "b347b8bd2e85f10eca7dc7160026443b",
@@ -9,9 +9,9 @@
       "player1": "Arthur Fils",
       "player2": "Rafael Jodar",
       "odds1": 2,
-      "odds2": 1.98,
-      "prob1": "0.4975",
-      "prob2": "0.5025",
+      "odds2": 1.99,
+      "prob1": "0.4987",
+      "prob2": "0.5013",
       "bookmaker": "Betfair",
       "sport_key": "tennis_atp_finals",
       "region": "eu"
@@ -26,6 +26,32 @@
       "prob1": "0.6450",
       "prob2": "0.3550",
       "bookmaker": "Betclic (FR)",
+      "sport_key": "tennis_atp_finals",
+      "region": "eu"
+    },
+    {
+      "event_id": "a3e64105988f48f4c6447c9ca6de0030",
+      "start": "2026-11-18T13:00:00Z",
+      "player1": "Carlos Alcaraz",
+      "player2": "Daniil Medvedev",
+      "odds1": 1.28,
+      "odds2": 3.7,
+      "prob1": "0.7430",
+      "prob2": "0.2570",
+      "bookmaker": "Unibet (NL)",
+      "sport_key": "tennis_atp_finals",
+      "region": "eu"
+    },
+    {
+      "event_id": "5f11f792535a031c557f8a33a8093f18",
+      "start": "2026-11-18T19:30:00Z",
+      "player1": "Flavio Cobolli",
+      "player2": "Frances Tiafoe",
+      "odds1": 1.96,
+      "odds2": 1.83,
+      "prob1": "0.4828",
+      "prob2": "0.5172",
+      "bookmaker": "Unibet (NL)",
       "sport_key": "tennis_atp_finals",
       "region": "eu"
     }
