@@ -1,4 +1,5 @@
 event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-5f11f792535a031c557f8a33a8093f18,2026-11-18T19:37:00Z,Flavio Cobolli,Frances Tiafoe,2.12,1.71,0.4465,0.5535,Unibet (NL),tennis_atp_finals,eu
-91d621e106bf38d41c61739852993840,2026-11-19T13:00:00Z,Ben Shelton,Rafael Jodar,1.46,2.85,0.6613,0.3387,Winamax (DE),tennis_atp_finals,eu
-66cc3b98e9e67560a34198715ee78d75,2026-11-19T19:30:00Z,Alexander Zverev,Arthur Fils,1.4,2.9,0.6744,0.3256,888sport,tennis_atp_finals,eu
+91d621e106bf38d41c61739852993840,2026-11-19T13:00:00Z,Ben Shelton,Rafael Jodar,1.45,2.9,0.6667,0.3333,Winamax (DE),tennis_atp_finals,eu
+66cc3b98e9e67560a34198715ee78d75,2026-11-19T19:30:00Z,Alexander Zverev,Arthur Fils,1.36,3.1,0.6951,0.3049,888sport,tennis_atp_finals,eu
+1cd25143408ea45a393e8267ccd3afeb,2026-11-20T13:00:00Z,Carlos Alcaraz,Flavio Cobolli,1.14,5,0.8143,0.1857,Betfair,tennis_atp_finals,eu
+1acdb2047defbe0439ef3b1961a60010,2026-11-20T19:30:00Z,Daniil Medvedev,Frances Tiafoe,1.4,3.3,0.7021,0.2979,Betfair,tennis_atp_finals,eu
