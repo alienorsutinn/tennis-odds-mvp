@@ -1,4 +1,0 @@
-event_id,start,player1,player2,odds1,odds2,prob1,prob2,bookmaker,sport_key,region
-66cc3b98e9e67560a34198715ee78d75,2026-11-19T19:37:00Z,Alexander Zverev,Arthur Fils,1.4,2.75,0.6627,0.3373,888sport,tennis_atp_finals,eu
-1cd25143408ea45a393e8267ccd3afeb,2026-11-20T13:00:00Z,Carlos Alcaraz,Flavio Cobolli,1.24,4.9,0.7980,0.2020,Betfair,tennis_atp_finals,eu
-1acdb2047defbe0439ef3b1961a60010,2026-11-20T19:30:00Z,Daniil Medvedev,Frances Tiafoe,1.46,3.1,0.6798,0.3202,Betfair,tennis_atp_finals,eu
