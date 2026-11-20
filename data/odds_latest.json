@@ -1,6 +1,33 @@
 {
-  "fetchedAt": "2026-11-20T06:01:10.267Z",
+  "fetchedAt": "2026-11-20T19:40:24.855Z",
   "region": "eu",
-  "count": 0,
-  "events": []
+  "count": 2,
+  "events": [
+    {
+      "event_id": "1acdb2047defbe0439ef3b1961a60010",
+      "start": "2026-11-20T19:55:00Z",
+      "player1": "Daniil Medvedev",
+      "player2": "Frances Tiafoe",
+      "odds1": 1.37,
+      "odds2": 3.65,
+      "prob1": "0.7271",
+      "prob2": "0.2729",
+      "bookmaker": "Betfair",
+      "sport_key": "tennis_atp_finals",
+      "region": "eu"
+    },
+    {
+      "event_id": "81c3faeaadd3d42734cd831b32b32597",
+      "start": "2026-11-21T13:00:00Z",
+      "player1": "Ben Shelton",
+      "player2": "Carlos Alcaraz",
+      "odds1": 3.56,
+      "odds2": 1.33,
+      "prob1": "0.2720",
+      "prob2": "0.7280",
+      "bookmaker": "1xBet",
+      "sport_key": "tennis_atp_finals",
+      "region": "eu"
+    }
+  ]
 }
