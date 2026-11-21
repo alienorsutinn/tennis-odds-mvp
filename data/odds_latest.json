@@ -1,30 +1,17 @@
 {
-  "fetchedAt": "2026-11-21T05:55:26.248Z",
+  "fetchedAt": "2026-11-21T18:46:20.892Z",
   "region": "eu",
-  "count": 2,
+  "count": 1,
   "events": [
-    {
-      "event_id": "81c3faeaadd3d42734cd831b32b32597",
-      "start": "2026-11-21T13:30:00Z",
-      "player1": "Ben Shelton",
-      "player2": "Carlos Alcaraz",
-      "odds1": 4.17,
-      "odds2": 1.26,
-      "prob1": "0.2320",
-      "prob2": "0.7680",
-      "bookmaker": "1xBet",
-      "sport_key": "tennis_atp_finals",
-      "region": "eu"
-    },
     {
       "event_id": "32e23a0b745bed6c0a23f60fab451adb",
       "start": "2026-11-21T19:30:00Z",
       "player1": "Alexander Zverev",
       "player2": "Daniil Medvedev",
-      "odds1": 1.56,
+      "odds1": 1.57,
       "odds2": 2.43,
-      "prob1": "0.6090",
-      "prob2": "0.3910",
+      "prob1": "0.6075",
+      "prob2": "0.3925",
       "bookmaker": "Unibet (SE)",
       "sport_key": "tennis_atp_finals",
       "region": "eu"
