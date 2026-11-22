@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-11-21T18:46:20.892Z",
+  "fetchedAt": "2026-11-22T05:29:21.338Z",
   "region": "eu",
   "count": 1,
   "events": [
     {
-      "event_id": "32e23a0b745bed6c0a23f60fab451adb",
-      "start": "2026-11-21T19:30:00Z",
+      "event_id": "61fd3eff03d345615f08909e038728e7",
+      "start": "2026-11-22T17:00:00Z",
       "player1": "Alexander Zverev",
-      "player2": "Daniil Medvedev",
-      "odds1": 1.57,
-      "odds2": 2.43,
-      "prob1": "0.6075",
-      "prob2": "0.3925",
-      "bookmaker": "Unibet (SE)",
+      "player2": "Carlos Alcaraz",
+      "odds1": 2.7,
+      "odds2": 1.39,
+      "prob1": "0.3399",
+      "prob2": "0.6601",
+      "bookmaker": "Unibet (FR)",
       "sport_key": "tennis_atp_finals",
       "region": "eu"
     }
